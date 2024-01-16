@@ -1,0 +1,8 @@
+/*
+!/_state
+!/.gitignore
+!/BepInEx
+!/.doorstop_version
+!/doorstop_config.ini
+!/mods.yml
+!/winhttp.dll
