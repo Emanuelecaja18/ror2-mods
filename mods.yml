@@ -1,0 +1,160 @@
+- manifestVersion: 1
+  name: RiskofThunder-BepInEx_GUI
+  authorName: RiskofThunder
+  websiteUrl: https://thunderstore.io/package/RiskofThunder/BepInEx_GUI/
+  displayName: BepInEx_GUI
+  description: Graphical User Interface meant to replace the regular console host
+    that is used by BepInEx when the config setting is enabled.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 3
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:/Users/emanu/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/RiskOfRain2/cache/RiskofThunder-BepInEx_GUI/3.0.2/icon.png
+- manifestVersion: 1
+  name: RiskofThunder-FixPluginTypesSerialization
+  authorName: RiskofThunder
+  websiteUrl: https://thunderstore.io/package/RiskofThunder/FixPluginTypesSerialization/
+  displayName: FixPluginTypesSerialization
+  description: Fix custom Serializable structs and such not properly getting
+    deserialized by Unity.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:/Users/emanu/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/RiskOfRain2/cache/RiskofThunder-FixPluginTypesSerialization/1.0.3/icon.png
+- manifestVersion: 1
+  name: RiskofThunder-RoR2BepInExPack
+  authorName: RiskofThunder
+  websiteUrl: https://thunderstore.io/package/RiskofThunder/RoR2BepInExPack/
+  displayName: RoR2BepInExPack
+  description: Simplify the modding ecosystem of Risk of Rain 2, making it easier
+    for modders to create and maintain their mods while preventing harmful bugs.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 10
+    patch: 0
+  enabled: true
+  icon: C:/Users/emanu/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/RiskOfRain2/cache/RiskofThunder-RoR2BepInExPack/1.10.0/icon.png
+- manifestVersion: 1
+  name: bbepis-BepInExPack
+  authorName: bbepis
+  websiteUrl: https://thunderstore.io/package/bbepis/BepInExPack/
+  displayName: BepInExPack
+  description: Unified BepInEx all-in-one modding pack - plugin framework, detour library
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - RiskofThunder-RoR2BepInExPack-1.9.0
+    - RiskofThunder-FixPluginTypesSerialization-1.0.3
+    - RiskofThunder-BepInEx_GUI-3.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 5
+    minor: 4
+    patch: 2113
+  enabled: true
+  icon: C:/Users/emanu/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/RiskOfRain2/cache/bbepis-BepInExPack/5.4.2113/icon.png
+- manifestVersion: 1
+  name: RiskofThunder-HookGenPatcher
+  authorName: RiskofThunder
+  websiteUrl: https://thunderstore.io/package/RiskofThunder/HookGenPatcher/
+  displayName: HookGenPatcher
+  description: MMHOOK generation at runtime.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1801
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 3
+  enabled: true
+  icon: C:/Users/emanu/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/RiskOfRain2/cache/RiskofThunder-HookGenPatcher/1.2.3/icon.png
+- manifestVersion: 1
+  name: KingEnderBrine-ProperSave
+  authorName: KingEnderBrine
+  websiteUrl: https://thunderstore.io/package/KingEnderBrine/ProperSave/
+  displayName: ProperSave
+  description: Saves your progress at the start of the stage so you can load later
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - RiskofThunder-HookGenPatcher-1.2.3
+    - bbepis-BepInExPack-5.4.1905
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 9
+    patch: 0
+  enabled: true
+  icon: C:/Users/emanu/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/RiskOfRain2/cache/KingEnderBrine-ProperSave/2.9.0/icon.png
+- manifestVersion: 1
+  name: XoXFaby-BetterUI
+  authorName: XoXFaby
+  websiteUrl: https://thunderstore.io/package/XoXFaby/BetterUI/
+  displayName: BetterUI
+  description: Looking for translators! Various UI improvements like ordered items
+    with multiple ways of sorting, DPSMeter, Item Counters, Skill/Equipment/Item
+    Information, Command/Scrapper counters and other improvements, customizable
+    StatsDisplay, and much more.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.19
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 8
+    patch: 4
+  enabled: true
+  icon: C:/Users/emanu/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/RiskOfRain2/cache/XoXFaby-BetterUI/2.8.4/icon.png
