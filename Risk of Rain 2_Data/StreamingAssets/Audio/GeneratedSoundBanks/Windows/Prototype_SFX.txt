@@ -1,0 +1,299 @@
+Event	ID	Name			Wwise Object Path	Notes
+	144484126	Play_wShield			\RoR1_Placeholder_Events\Placeholder\Play_wShield	
+	197474154	Play_wCutsceneJet			\RoR1_Placeholder_Events\Placeholder\Play_wCutsceneJet	
+	213554906	Play_wJellyHit			\RoR1_Placeholder_Events\Placeholder\Play_wJellyHit	
+	273185112	Play_wChest0			\RoR1_Placeholder_Events\Placeholder\Play_wChest0	
+	273185113	Play_wChest1			\RoR1_Placeholder_Events\Placeholder\Play_wChest1	
+	273185114	Play_wChest2			\RoR1_Placeholder_Events\Placeholder\Play_wChest2	
+	273185117	Play_wChest5			\RoR1_Placeholder_Events\Placeholder\Play_wChest5	
+	287412267	Play_wLizardShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wLizardShoot1	
+	291139117	Play_wSpitterSpawn			\RoR1_Placeholder_Events\Placeholder\Play_wSpitterSpawn	
+	368641344	Play_wPodDeath			\RoR1_Placeholder_Events\Placeholder\Play_wPodDeath	
+	392428577	Play_wRiotShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wRiotShoot1	
+	400103432	Play_wCrabSpawn			\RoR1_Placeholder_Events\Placeholder\Play_wCrabSpawn	
+	469957963	Play_wGolemDeath			\RoR1_Placeholder_Events\Placeholder\Play_wGolemDeath	
+	487910212	Play_wMushShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wMushShoot1	
+	530229631	Play_wSpitterHit			\RoR1_Placeholder_Events\Placeholder\Play_wSpitterHit	
+	702433570	Play_wImpGShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wImpGShoot1	
+	732734997	Play_wFeralShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wFeralShoot1	
+	732734998	Play_wFeralShoot2			\RoR1_Placeholder_Events\Placeholder\Play_wFeralShoot2	
+	745840569	Play_wPickup			\RoR1_Placeholder_Events\Placeholder\Play_wPickup	
+	857592033	Play_wBossSkill2			\RoR1_Placeholder_Events\Placeholder\Play_wBossSkill2	
+	874719151	Play_wNautShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wNautShoot1	
+	914723770	Play_wWispShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wWispShoot1	
+	923348941	Play_wGiantJellyExplosion			\RoR1_Placeholder_Events\Placeholder\Play_wGiantJellyExplosion	
+	969982957	Play_wWispGShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wWispGShoot1	
+	1019251312	Play_wGolemAttack1			\RoR1_Placeholder_Events\Placeholder\Play_wGolemAttack1	
+	1021358464	Play_wMine			\RoR1_Placeholder_Events\Placeholder\Play_wMine	
+	1056078321	Play_wMinerShoot4			\RoR1_Placeholder_Events\Placeholder\Play_wMinerShoot4	
+	1056078324	Play_wMinerShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wMinerShoot1	
+	1056078326	Play_wMinerShoot3			\RoR1_Placeholder_Events\Placeholder\Play_wMinerShoot3	
+	1056078327	Play_wMinerShoot2			\RoR1_Placeholder_Events\Placeholder\Play_wMinerShoot2	
+	1100859862	Play_wUse			\RoR1_Placeholder_Events\Placeholder\Play_wUse	
+	1105771879	Play_wClick			\RoR1_Placeholder_Events\Placeholder\Play_wClick	
+	1113517888	Play_wBisonDeath			\RoR1_Placeholder_Events\Placeholder\Play_wBisonDeath	
+	1118795882	Play_wDoll			\RoR1_Placeholder_Events\Placeholder\Play_wDoll	
+	1170430294	Play_wLizardGShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wLizardGShoot1	
+	1170699791	Play_wRiotGrenade			\RoR1_Placeholder_Events\Placeholder\Play_wRiotGrenade	
+	1193575573	Play_wGuardSpawn			\RoR1_Placeholder_Events\Placeholder\Play_wGuardSpawn	
+	1197473233	Play_wBisonHit			\RoR1_Placeholder_Events\Placeholder\Play_wBisonHit	
+	1231583519	Play_wChat			\RoR1_Placeholder_Events\Placeholder\Play_wChat	
+	1232716514	Play_wCoin			\RoR1_Placeholder_Events\Placeholder\Play_wCoin	
+	1244890662	Play_wExplosiveShot			\RoR1_Placeholder_Events\Placeholder\Play_wExplosiveShot	
+	1249767875	Play_wBisonSpawn			\RoR1_Placeholder_Events\Placeholder\Play_wBisonSpawn	
+	1252691444	Play_wDrill			\RoR1_Placeholder_Events\Placeholder\Play_wDrill	
+	1283696654	Play_wLizardSpawn			\RoR1_Placeholder_Events\Placeholder\Play_wLizardSpawn	
+	1289080377	Play_wTeleporter			\RoR1_Placeholder_Events\Placeholder\Play_wTeleporter	
+	1326789400	Play_wSniper			\RoR1_Placeholder_Events\Placeholder\Play_wSniper	
+	1330288141	Play_wLightning			\RoR1_Placeholder_Events\Placeholder\Play_wLightning	
+	1332006904	Play_wBoarHit			\RoR1_Placeholder_Events\Placeholder\Play_wBoarHit	
+	1405469125	Play_wImpDeath			\RoR1_Placeholder_Events\Placeholder\Play_wImpDeath	
+	1409879677	Play_wJanitorShoot2_1			\RoR1_Placeholder_Events\Placeholder\Play_wJanitorShoot2_1	
+	1409879678	Play_wJanitorShoot2_2			\RoR1_Placeholder_Events\Placeholder\Play_wJanitorShoot2_2	
+	1410865380	Play_wJanitorShoot4_2			\RoR1_Placeholder_Events\Placeholder\Play_wJanitorShoot4_2	
+	1410865383	Play_wJanitorShoot4_1			\RoR1_Placeholder_Events\Placeholder\Play_wJanitorShoot4_1	
+	1425978735	Play_wLizardGHit			\RoR1_Placeholder_Events\Placeholder\Play_wLizardGHit	
+	1461112566	Play_wCutscenePass			\RoR1_Placeholder_Events\Placeholder\Play_wCutscenePass	
+	1473662818	Play_wMush			\RoR1_Placeholder_Events\Placeholder\Play_wMush	
+	1481867283	Play_wClaySpawn			\RoR1_Placeholder_Events\Placeholder\Play_wClaySpawn	
+	1516352125	Play_wShrine1			\RoR1_Placeholder_Events\Placeholder\Play_wShrine1	
+	1534240581	Play_wSpiderHit			\RoR1_Placeholder_Events\Placeholder\Play_wSpiderHit	
+	1676655215	Play_wSmite			\RoR1_Placeholder_Events\Placeholder\Play_wSmite	
+	1700089088	Play_wWormRoar			\RoR1_Placeholder_Events\Placeholder\Play_wWormRoar	
+	1800381192	Play_wCasing			\RoR1_Placeholder_Events\Placeholder\Play_wCasing	
+	1828045284	Play_wHitlist			\RoR1_Placeholder_Events\Placeholder\Play_wHitlist	
+	1850209911	Play_wFrozen			\RoR1_Placeholder_Events\Placeholder\Play_wFrozen	
+	1853199952	Play_wClayDeath			\RoR1_Placeholder_Events\Placeholder\Play_wClayDeath	
+	1860044956	Play_wSqueaky			\RoR1_Placeholder_Events\Placeholder\Play_wSqueaky	
+	1863108870	Play_wSpitterShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wSpitterShoot1	
+	1913174254	Play_wChainLightning			\RoR1_Placeholder_Events\Placeholder\Play_wChainLightning	
+	1919980434	Play_wLevelUp			\RoR1_Placeholder_Events\Placeholder\Play_wLevelUp	
+	1924739498	Play_wGolemHit			\RoR1_Placeholder_Events\Placeholder\Play_wGolemHit	
+	1935874270	Play_wReload			\RoR1_Placeholder_Events\Placeholder\Play_wReload	
+	1968672835	Play_wWispGDeath			\RoR1_Placeholder_Events\Placeholder\Play_wWispGDeath	
+	1969574576	Play_wClayShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wClayShoot1	
+	1977581991	Play_wPyroShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wPyroShoot1	
+	2014257388	Play_wGeyser			\RoR1_Placeholder_Events\Placeholder\Play_wGeyser	
+	2025586984	Play_wWispBShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wWispBShoot1	
+	2074794113	Play_wLizardDeath			\RoR1_Placeholder_Events\Placeholder\Play_wLizardDeath	
+	2120356473	Play_wError			\RoR1_Placeholder_Events\Placeholder\Play_wError	
+	2172459452	Play_wCutsceneAlarm			\RoR1_Placeholder_Events\Placeholder\Play_wCutsceneAlarm	
+	2192059253	Play_wWormBurning			\RoR1_Placeholder_Events\Placeholder\Play_wWormBurning	
+	2195517878	Play_wGuardDeath			\RoR1_Placeholder_Events\Placeholder\Play_wGuardDeath	
+	2266555164	Play_wHeavyShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wHeavyShoot1	
+	2292726400	Play_wSamuraiShoot2			\RoR1_Placeholder_Events\Placeholder\Play_wSamuraiShoot2	
+	2292726403	Play_wSamuraiShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wSamuraiShoot1	
+	2360199605	Play_wCoins			\RoR1_Placeholder_Events\Placeholder\Play_wCoins	
+	2483794321	Play_wJanitorShoot1_2			\RoR1_Placeholder_Events\Placeholder\Play_wJanitorShoot1_2	
+	2483794322	Play_wJanitorShoot1_1			\RoR1_Placeholder_Events\Placeholder\Play_wJanitorShoot1_1	
+	2522836730	Play_wSniper2			\RoR1_Placeholder_Events\Placeholder\Play_wSniper2	
+	2529227609	Play_wWormExplosion			\RoR1_Placeholder_Events\Placeholder\Play_wWormExplosion	
+	2561235483	Play_wWispHit			\RoR1_Placeholder_Events\Placeholder\Play_wWispHit	
+	2651342963	Play_wBoarShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wBoarShoot1	
+	2658053020	Play_wGolemSpawn			\RoR1_Placeholder_Events\Placeholder\Play_wGolemSpawn	
+	2679553851	Play_wJellyDeath			\RoR1_Placeholder_Events\Placeholder\Play_wJellyDeath	
+	2684018717	Play_wLizardGSpawn			\RoR1_Placeholder_Events\Placeholder\Play_wLizardGSpawn	
+	2697432036	Play_wImpHit			\RoR1_Placeholder_Events\Placeholder\Play_wImpHit	
+	2714607293	Play_wHuntressShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wHuntressShoot1	
+	2714607295	Play_wHuntressShoot3			\RoR1_Placeholder_Events\Placeholder\Play_wHuntressShoot3	
+	2755541643	Play_wCrowbar			\RoR1_Placeholder_Events\Placeholder\Play_wCrowbar	
+	2776445172	Play_wImpShoot2			\RoR1_Placeholder_Events\Placeholder\Play_wImpShoot2	
+	2776445175	Play_wImpShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wImpShoot1	
+	2864197409	Play_wClayHit			\RoR1_Placeholder_Events\Placeholder\Play_wClayHit	
+	2887033908	Play_wBoarMDeath			\RoR1_Placeholder_Events\Placeholder\Play_wBoarMDeath	
+	2887429069	Play_wMushHit			\RoR1_Placeholder_Events\Placeholder\Play_wMushHit	
+	2914438815	Play_wCrabDeath			\RoR1_Placeholder_Events\Placeholder\Play_wCrabDeath	
+	2978407106	Play_wChildGShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wChildGShoot1	
+	3021624856	Play_wWispBDeath			\RoR1_Placeholder_Events\Placeholder\Play_wWispBDeath	
+	3023098025	Play_wMS			\RoR1_Placeholder_Events\Placeholder\Play_wMS	
+	3029163620	Play_wSniperShoot3			\RoR1_Placeholder_Events\Placeholder\Play_wSniperShoot3	
+	3043230225	Play_wBlastdoor			\RoR1_Placeholder_Events\Placeholder\Play_wBlastdoor	
+	3091761946	Play_wBoarExplosion			\RoR1_Placeholder_Events\Placeholder\Play_wBoarExplosion	
+	3109566651	Play_wDrone1Spawn			\RoR1_Placeholder_Events\Placeholder\Play_wDrone1Spawn	
+	3169292106	Play_wWispDeath			\RoR1_Placeholder_Events\Placeholder\Play_wWispDeath	
+	3268390400	Play_wBisonShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wBisonShoot1	
+	3354880454	Play_wWatch			\RoR1_Placeholder_Events\Placeholder\Play_wWatch	
+	3355655210	Play_wEfMushroom			\RoR1_Placeholder_Events\Placeholder\Play_wEfMushroom	
+	3380168965	Play_wBoss1Shoot1			\RoR1_Placeholder_Events\Placeholder\Play_wBoss1Shoot1	
+	3380168966	Play_wBoss1Shoot2			\RoR1_Placeholder_Events\Placeholder\Play_wBoss1Shoot2	
+	3415171634	Play_wMissileLaunch			\RoR1_Placeholder_Events\Placeholder\Play_wMissileLaunch	
+	3436613665	Play_wWispSpawn			\RoR1_Placeholder_Events\Placeholder\Play_wWispSpawn	This is the sound that will play when a wisp is spawned.
+	3448409472	Play_wBullet3			\RoR1_Placeholder_Events\Placeholder\Play_wBullet3	
+	3448409473	Play_wBullet2			\RoR1_Placeholder_Events\Placeholder\Play_wBullet2	
+	3448409474	Play_wBullet1			\RoR1_Placeholder_Events\Placeholder\Play_wBullet1	
+	3463803836	Play_wMushDeath			\RoR1_Placeholder_Events\Placeholder\Play_wMushDeath	
+	3504753139	Play_wWormHit			\RoR1_Placeholder_Events\Placeholder\Play_wWormHit	
+	3519041107	Play_wEmbryo			\RoR1_Placeholder_Events\Placeholder\Play_wEmbryo	
+	3534459008	Play_wReflect			\RoR1_Placeholder_Events\Placeholder\Play_wReflect	
+	3657652262	Play_wDifficulty			\RoR1_Placeholder_Events\Placeholder\Play_wDifficulty	
+	3726358359	Play_wGuardHit			\RoR1_Placeholder_Events\Placeholder\Play_wGuardHit	
+	3731152613	Play_wChildDeath			\RoR1_Placeholder_Events\Placeholder\Play_wChildDeath	
+	3774687669	Play_wCrit_01			\RoR1_Placeholder_Events\Placeholder\Play_wCrit_01	
+	3793594386	Play_wWormDeath			\RoR1_Placeholder_Events\Placeholder\Play_wWormDeath	
+	3803292342	Play_wScavengerHit			\RoR1_Placeholder_Events\Placeholder\Play_wScavengerHit	
+	3830172407	Play_wGiantJellyHit			\RoR1_Placeholder_Events\Placeholder\Play_wGiantJellyHit	
+	3924543518	Play_wRevive			\RoR1_Placeholder_Events\Placeholder\Play_wRevive	
+	3944593657	Play_wBoarDeath			\RoR1_Placeholder_Events\Placeholder\Play_wBoarDeath	
+	3999340508	Play_wBubbleShield			\RoR1_Placeholder_Events\Placeholder\Play_wBubbleShield	
+	4002996080	Play_wChefShoot2_1			\RoR1_Placeholder_Events\Placeholder\Play_wChefShoot2_1	
+	4018099836	Play_wSpiderShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wSpiderShoot1	
+	4023542052	Play_wLevelUpWar			\RoR1_Placeholder_Events\Placeholder\Play_wLevelUpWar	
+	4069172177	Play_wPodHit			\RoR1_Placeholder_Events\Placeholder\Play_wPodHit	
+	4072685316	Play_wChildHit			\RoR1_Placeholder_Events\Placeholder\Play_wChildHit	
+	4162844532	Play_wJarSouls			\RoR1_Placeholder_Events\Placeholder\Play_wJarSouls	
+	4172429713	Play_wPigShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wPigShoot1	
+	4177291774	Play_wLizardGDeath			\RoR1_Placeholder_Events\Placeholder\Play_wLizardGDeath	
+	4207177744	Play_wLizardHit			\RoR1_Placeholder_Events\Placeholder\Play_wLizardHit	
+	4208364455	Play_wMushSpawn			\RoR1_Placeholder_Events\Placeholder\Play_wMushSpawn	
+	4260787991	Play_wChildShoot1			\RoR1_Placeholder_Events\Placeholder\Play_wChildShoot1	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	442825	wScavengerHit	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wScavengerHit_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wScavengerHit		2219
+	13698670	wJanitorShoot4_2	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wJanitorShoot4_2_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wJanitorShoot4_2		21733
+	27991497	wUse	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wUse_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wUse		2191
+	31326426	wNautShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wNautShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wNautShoot1		21895
+	38404381	wCrabSpawn	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wCrabSpawn_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wCrabSpawn		14087
+	62490214	wCasing	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wCasing_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wCasing		19217
+	63919453	wShield	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wShield_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wShield		16295
+	65059496	wSpitterSpawn	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wSpitterSpawn_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wSpitterSpawn		18792
+	67741479	wBullet1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wBullet1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wBullet1		8231
+	68556190	wWormBurning	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wWormBurning_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wWormBurning		54460
+	71594009	wLizardHit	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wLizardHit_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wLizardHit		6809
+	85246414	wChest5	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wChest5_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wChest5		20233
+	88726382	wDoll	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wDoll_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wDoll		63525
+	94241270	wCrabDeath	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wCrabDeath_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wCrabDeath		13613
+	110709916	wLightning	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wLightning_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wLightning		29460
+	112483795	wSpiderHit	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wSpiderHit_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wSpiderHit		2650
+	114469983	wJellyDeath	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wJellyDeath_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wJellyDeath		17106
+	115808874	wGolemAttack1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wGolemAttack1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wGolemAttack1		24837
+	121184351	wTeleporter	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wTeleporter_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wTeleporter		61915
+	131579151	wWispShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wWispShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wWispShoot1		25307
+	139439571	wPickup	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wPickup_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wPickup		9473
+	146371234	wCutsceneJet	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wCutsceneJet_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wCutsceneJet		161577
+	158119059	wPyroShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wPyroShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wPyroShoot1		265691
+	186974987	wLizardDeath	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wLizardDeath_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wLizardDeath		13253
+	199203792	wGeyser	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wGeyser_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wGeyser		11140
+	200213072	wClick	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wClick_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wClick		3558
+	200317944	wMushDeath	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wMushDeath_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wMushDeath		32310
+	222915066	wBisonHit	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wBisonHit_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wBisonHit		4671
+	224429197	wMushHit	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wMushHit_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wMushHit		7860
+	235193888	wCutscenePass	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wCutscenePass_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wCutscenePass		109571
+	238868155	wWispBShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wWispBShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wWispBShoot1		22287
+	240298601	wShrine1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wShrine1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wShrine1		22400
+	241601286	wError	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wError_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wError		10668
+	245678916	wDrill	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wDrill_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wDrill		19061
+	264088984	wGiantJellyExplosion	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wGiantJellyExplosion_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wGiantJellyExplosion		7968
+	265902265	wSmite	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wSmite_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wSmite		16169
+	284414295	wBoarDeath	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wBoarDeath_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wBoarDeath		45234
+	293851390	wLizardGDeath	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wLizardGDeath_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wLizardGDeath		24539
+	298357043	wWormHit	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wWormHit_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wWormHit		9047
+	308154868	wReload	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wReload_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wReload		11755
+	322654418	wWispGShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wWispGShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wWispGShoot1		32810
+	325970726	wBoarHit	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wBoarHit_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wBoarHit		4040
+	326641105	wFrozen	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wFrozen_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wFrozen		7481
+	330268589	wLizardSpawn	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wLizardSpawn_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wLizardSpawn		17147
+	331328739	wSniper2	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wSniper2_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wSniper2		24805
+	349991284	wChildShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wChildShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wChildShoot1		25197
+	360316752	wBullet2	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wBullet2_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wBullet2		9682
+	365030373	wWispBDeath	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wWispBDeath_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wWispBDeath		36337
+	367828133	wLizardGShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wLizardGShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wLizardGShoot1		20948
+	373464037	wImpGShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wImpGShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wImpGShoot1		11156
+	376473524	wGolemDeath	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wGolemDeath_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wGolemDeath		28894
+	386021560	wMush	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wMush_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wMush		7998
+	389035003	wHitlist	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wHitlist_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wHitlist		18533
+	390453461	wBossSkill2	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wBossSkill2_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wBossSkill2		39018
+	420270394	wChildGShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wChildGShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wChildGShoot1		18866
+	432406201	wChest2	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wChest2_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wChest2		18373
+	433920489	wMinerShoot4	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wMinerShoot4_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wMinerShoot4		40721
+	449697906	wImpShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wImpShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wImpShoot1		16619
+	463942904	wRiotGrenade	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wRiotGrenade_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wRiotGrenade		14013
+	476691173	wWispSpawn	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wWispSpawn_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Legacy\wWispSpawn		20633
+	476950227	wBoarMDeath	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wBoarMDeath_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wBoarMDeath		5065
+	478363854	wClaySpawn	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wClaySpawn_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wClaySpawn		18435
+	479683078	wDrone1Spawn	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wDrone1Spawn_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wDrone1Spawn		14708
+	481869099	wBisonSpawn	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wBisonSpawn_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wBisonSpawn		20300
+	483369159	wImpDeath	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wImpDeath_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wImpDeath		33172
+	488578457	wRiotShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wRiotShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wRiotShoot1		10258
+	492663811	wLevelUp	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wLevelUp_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wLevelUp		42753
+	496257732	wSpitterHit	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wSpitterHit_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wSpitterHit		3689
+	518292387	wSamuraiShoot2	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wSamuraiShoot2_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wSamuraiShoot2		15526
+	530416429	wBoss1Shoot2	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wBoss1Shoot2_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wBoss1Shoot2		15025
+	530777645	wLevelUpWar	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wLevelUpWar_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wLevelUpWar		60466
+	550583111	wWormRoar	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wWormRoar_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wWormRoar		44493
+	551064946	wChainLightning	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wChainLightning_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wChainLightning		8446
+	552947157	wCoin	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wCoin_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wCoin		5991
+	553263517	wChildDeath	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wChildDeath_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wChildDeath		15083
+	553772156	wPigShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wPigShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wPigShoot1		19818
+	555965259	wFeralShoot2	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wFeralShoot2_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wFeralShoot2		11906
+	569827638	wLizardShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wLizardShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wLizardShoot1		12866
+	575495453	wMinerShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wMinerShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wMinerShoot1		8871
+	576602289	wBoarShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wBoarShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wBoarShoot1		36643
+	577302980	wSpitterShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wSpitterShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wSpitterShoot1		23409
+	577304943	wClayHit	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wClayHit_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wClayHit		14599
+	591263050	wCoins	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wCoins_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wCoins		22744
+	601498517	wClayShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wClayShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wClayShoot1		5661
+	605412756	wHuntressShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wHuntressShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wHuntressShoot1		9940
+	622688127	wMushShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wMushShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wMushShoot1		20655
+	635100342	wBubbleShield	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wBubbleShield_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wBubbleShield		26168
+	646395273	wMinerShoot2	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wMinerShoot2_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wMinerShoot2		19033
+	650578828	wLizardGSpawn	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wLizardGSpawn_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wLizardGSpawn		23219
+	653903951	wFeralShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wFeralShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wFeralShoot1		12645
+	654122288	wGolemSpawn	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wGolemSpawn_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wGolemSpawn		29483
+	660529283	wCrowbar	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wCrowbar_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wCrowbar		24419
+	688284301	wGuardHit	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wGuardHit_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wGuardHit		9061
+	689757508	wWormExplosion	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wWormExplosion_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wWormExplosion		78238
+	691187279	wWispSpawn	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wWispSpawn_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wWispSpawn		20633
+	697347296	wMine	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wMine_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wMine		4251
+	699276178	wJanitorShoot4_1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wJanitorShoot4_1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wJanitorShoot4_1		23210
+	703435573	wRevive	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wRevive_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wRevive		52633
+	713623983	wEfMushroom	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wEfMushroom_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wEfMushroom		2756
+	719874973	wSniper	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wSniper_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wSniper		23861
+	724785971	wWispDeath	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wWispDeath_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wWispDeath		27083
+	757798764	wWormDeath	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wWormDeath_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wWormDeath		16886
+	760084561	wEmbryo	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wEmbryo_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wEmbryo		25025
+	775225721	wSniperShoot3	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wSniperShoot3_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wSniperShoot3		6803
+	784582533	wSpiderShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wSpiderShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wSpiderShoot1		16318
+	785480918	wCrit	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wCrit_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wCrit		10024
+	790400039	wGuardDeath	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wGuardDeath_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wGuardDeath		15592
+	791155256	wWispHit	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wWispHit_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wWispHit		10139
+	805062258	wGuardSpawn	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wGuardSpawn_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wGuardSpawn		43026
+	810667846	wChefShoot2_1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wChefShoot2_1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wChefShoot2_1		8181
+	817642877	wChat	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wChat_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wChat		1414
+	843707648	wSqueaky	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wSqueaky_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wSqueaky		6654
+	846466549	wSamuraiShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wSamuraiShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wSamuraiShoot1		7904
+	846955820	wMS	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wMS_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wMS		23909
+	850678501	wJellyHit	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wJellyHit_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wJellyHit		3864
+	853584959	wBullet3	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wBullet3_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wBullet3		13765
+	866254531	wLizardGHit	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wLizardGHit_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wLizardGHit		5891
+	870735470	wPodDeath	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wPodDeath_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wPodDeath		20463
+	873244385	wGolemHit	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wGolemHit_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wGolemHit		13166
+	877236571	wChest1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wChest1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wChest1		19182
+	878108613	wJanitorShoot1_1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wJanitorShoot1_1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wJanitorShoot1_1		6958
+	885045432	wPodHit	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wPodHit_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wPodHit		16022
+	892944715	wJarSouls	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wJarSouls_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wJarSouls		39209
+	896890530	wHeavyShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wHeavyShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wHeavyShoot1		10807
+	905975780	wBisonDeath	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wBisonDeath_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wBisonDeath		31928
+	911253522	wWatch	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wWatch_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wWatch		47387
+	914683845	wReflect	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wReflect_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wReflect		6902
+	922138789	wHuntressShoot3	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wHuntressShoot3_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wHuntressShoot3		13878
+	928676005	wJanitorShoot2_2	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wJanitorShoot2_2_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wJanitorShoot2_2		5516
+	929662310	wBoarExplosion	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wBoarExplosion_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wBoarExplosion		10356
+	932863437	wImpShoot2	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wImpShoot2_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wImpShoot2		10963
+	938680796	wClayDeath	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wClayDeath_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wClayDeath		26061
+	939268878	wMissileLaunch	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wMissileLaunch_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wMissileLaunch		6610
+	952660744	wImpHit	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wImpHit_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wImpHit		6141
+	953499469	wJanitorShoot2_1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wJanitorShoot2_1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wJanitorShoot2_1		2401
+	966044520	wWispGDeath	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wWispGDeath_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wWispGDeath		20438
+	967465561	wChest0	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wChest0_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wChest0		3618
+	973317194	wMinerShoot3	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wMinerShoot3_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wMinerShoot3		8982
+	974787457	wChildHit	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wChildHit_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wChildHit		4137
+	1002559827	wBoss1Shoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wBoss1Shoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wBoss1Shoot1		10462
+	1021958106	wMushSpawn	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wMushSpawn_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wMushSpawn		9221
+	1022137015	wJanitorShoot1_2	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wJanitorShoot1_2_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wJanitorShoot1_2		12743
+	1033082057	wDifficulty	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wDifficulty_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wDifficulty		100807
+	1046332691	wGiantJellyHit	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wGiantJellyHit_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wGiantJellyHit		4333
+	1046599682	wBlastdoor	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wBlastdoor_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wBlastdoor		102500
+	1052708327	wExplosiveShot	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wExplosiveShot_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wExplosiveShot		6837
+	1054620576	wCutsceneAlarm	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wCutsceneAlarm_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wCutsceneAlarm		22145
+	1065287657	wBisonShoot1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\wBisonShoot1_A8D77D4B.wem		\Actor-Mixer Hierarchy\RoR1_Placeholder\Placeholders\wBisonShoot1		30867
+

@@ -1,0 +1,6 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	66962328	item_use_gummyClone_expire	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_use_gummyClone_expire_01_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_gummyClone\item_use_gummyClone_expire		14116
+	477727999	item_use_gummyClone_spawn_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_use_gummyClone_spawn_01_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_gummyClone\item_use_gummyClone_spawn\item_use_gummyClone_spawn_01		22170
+	868707336	item_use_gummyClone_spawn_03	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_use_gummyClone_spawn_03_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_gummyClone\item_use_gummyClone_spawn\item_use_gummyClone_spawn_03		19100
+	1053032107	item_use_gummyClone_spawn_02	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_use_gummyClone_spawn_02_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_gummyClone\item_use_gummyClone_spawn\item_use_gummyClone_spawn_02		22953
+

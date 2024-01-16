@@ -1,0 +1,6 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	8799220	ror2_item_use_sawmerang_chargeup_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ror2_item_use_sawmerang_chargeup_01_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_sawmerang\item_use_sawmerang\ror2_item_use_sawmerang_chargeup_01		23251
+	203266247	ror2_item_use_sawmerang_throw_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ror2_item_use_sawmerang_throw_01_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_sawmerang\item_use_sawmerang\ror2_item_use_sawmerang_throw_01		41060
+	514776882	ror2_item_use_sawmerang_catch_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ror2_item_use_sawmerang_catch_01_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_sawmerang\item_use_sawmerang\ror2_item_use_sawmerang_catch_01		23071
+	899654783	ror2_item_use_sawmerang_fly_loop_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ror2_item_use_sawmerang_fly_loop_01_A717E084.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_sawmerang\item_use_sawmerang\ror2_item_use_sawmerang_fly_loop_01		32243
+

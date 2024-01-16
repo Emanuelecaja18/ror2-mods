@@ -1,0 +1,6 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	324613841	ror2_item_watch_break_02	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ror2_item_watch_break_02_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_delicateWatch\item_proc_delicateWatch_break\ror2_item_watch_break_02		22684
+	494011924	ror2_item_watch_break_03	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ror2_item_watch_break_03_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_delicateWatch\item_proc_delicateWatch_break\ror2_item_watch_break_03		21873
+	904586615	ror2_item_watch_break_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ror2_item_watch_break_01_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_delicateWatch\item_proc_delicateWatch_break\ror2_item_watch_break_01		24973
+	986902327	ror2_item_watch_break_04	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ror2_item_watch_break_04_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_delicateWatch\item_proc_delicateWatch_break\ror2_item_watch_break_04		22943
+

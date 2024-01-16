@@ -1,0 +1,5 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	672653341	RoR2_iten_regenOnKill_03	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\RoR2_iten_regenOnKill_03_F4483BD2.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_regenOnKill\item_proc_regenOnKill\RoR2_iten_regenOnKill_03		17448
+	729091170	RoR2_iten_regenOnKill_02	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\RoR2_iten_regenOnKill_02_0F7DC724.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_regenOnKill\item_proc_regenOnKill\RoR2_iten_regenOnKill_02		16708
+	902440652	RoR2_iten_regenOnKill_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\RoR2_iten_regenOnKill_01_2B435182.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_regenOnKill\item_proc_regenOnKill\RoR2_iten_regenOnKill_01		16564
+

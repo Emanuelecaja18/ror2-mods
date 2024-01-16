@@ -1,0 +1,3 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	408191725	item_use_bossHunter	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_use_bossHunter_01_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_bossHunter\item_use_bossHunter		40337
+

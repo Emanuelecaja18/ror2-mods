@@ -1,0 +1,5 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	877143015	ror2_item_use_fireballDash_loop_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ror2_item_use_fireballDash_loop_01_A717E084.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_fireballDash\ror2_item_use_fireballDash_loop_01		83673
+	934718886	ror2_item_use_fireballDash_explode_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ror2_item_use_fireballDash_explode_01_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_fireballDash\ror2_item_use_fireballDash_explode_01		51677
+	1057513304	ror2_item_use_fireballDash_start_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ror2_item_use_fireballDash_start_01_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_fireballDash\ror2_item_use_fireballDash_start_01		28942
+

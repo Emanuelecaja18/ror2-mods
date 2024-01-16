@@ -1,0 +1,3 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1006398	ror2_item_small_fire_loop_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ror2_item_small_fire_loop_01_86AA15E4.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Environment\Objects\OBJ_itemShip\env_itemShip_fire_loop\ror2_item_small_fire_loop_01		105196
+

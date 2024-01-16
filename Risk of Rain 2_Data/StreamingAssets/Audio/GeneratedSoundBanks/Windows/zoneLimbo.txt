@@ -1,0 +1,8 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	160215144	RoR2_AMB_limbo_04	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\RoR2_AMB_limbo_04_F35815EA.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Environment\Ambience\AMB_limbo\zone_limbo\loop\RoR2_AMB_limbo_04		111418
+	269349149	RoR2_AMB_limbo_06	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\RoR2_AMB_limbo_06_F35815EA.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Environment\Ambience\AMB_limbo\zone_limbo\loop\RoR2_AMB_limbo_06		109282
+	301787228	RoR2_AMB_limbo_03	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\RoR2_AMB_limbo_03_F35815EA.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Environment\Ambience\AMB_limbo\zone_limbo\loop\RoR2_AMB_limbo_03		109020
+	501811445	RoR2_AMB_limbo_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\RoR2_AMB_limbo_01_F35815EA.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Environment\Ambience\AMB_limbo\zone_limbo\loop\RoR2_AMB_limbo_01		107286
+	599137608	RoR2_AMB_limbo_05	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\RoR2_AMB_limbo_05_F35815EA.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Environment\Ambience\AMB_limbo\zone_limbo\loop\RoR2_AMB_limbo_05		108686
+	1048303788	RoR2_AMB_limbo_02	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\RoR2_AMB_limbo_02_F35815EA.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Environment\Ambience\AMB_limbo\zone_limbo\loop\RoR2_AMB_limbo_02		108583
+

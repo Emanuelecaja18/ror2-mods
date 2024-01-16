@@ -1,0 +1,6 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	365440294	item_proc_healingPotion_02	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_proc_healingPotion_02_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_healingPotion\item_proc_healingPotion\item_proc_healingPotion_02		42406
+	526329050	item_proc_healingPotion_04	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_proc_healingPotion_04_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_healingPotion\item_proc_healingPotion\item_proc_healingPotion_04		41740
+	848020162	item_proc_healingPotion_03	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_proc_healingPotion_03_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_healingPotion\item_proc_healingPotion\item_proc_healingPotion_03		42903
+	1053882261	item_proc_healingPotion_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_proc_healingPotion_01_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_healingPotion\item_proc_healingPotion\item_proc_healingPotion_01		43298
+

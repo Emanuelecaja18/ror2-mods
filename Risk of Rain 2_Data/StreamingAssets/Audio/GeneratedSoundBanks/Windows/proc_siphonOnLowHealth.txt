@@ -1,0 +1,5 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	547687810	siphonOnLowHealth_launch	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ror2_item_siphonOnLowHealth_launch_01_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_siphonOnLowHealth\siphonOnLowHealth_launch		29613
+	913995519	siphonOnLowHealth_retract	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ror2_item_siphonOnLowHealth_retract_01_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_siphonOnLowHealth\siphonOnLowHealth_retract		34483
+	970684645	siphonOnLowHealth_siphonLoop	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ror2_item_siphonOnLowHealth_siphonLoop_01_A717E084.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_siphonOnLowHealth\siphonOnLowHealth_siphonLoop		64015
+

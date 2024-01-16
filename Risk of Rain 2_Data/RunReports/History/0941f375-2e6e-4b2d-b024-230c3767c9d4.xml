@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunReport>
+  <version>2</version>
+  <runGuid>0941f375-2e6e-4b2d-b024-230c3767c9d4</runGuid>
+  <gameModeName>ClassicRun</gameModeName>
+  <gameEnding>StandardLoss</gameEnding>
+  <seed>2957651005702630270</seed>
+  <runStartTimeUtc>5249607215390581184</runStartTimeUtc>
+  <snapshotTimeUtc>5249607216279842789</snapshotTimeUtc>
+  <snapshotRunTime>87.65424</snapshotRunTime>
+  <runStopwatchValue>87.65424</runStopwatchValue>
+  <ruleBook>Difficulty.Normal Expansions.SynergiesExpansionDef.On Expansions.DLC1.On Artifacts.Bomb.Off Artifacts.Command.Off Artifacts.EliteOnly.Off Artifacts.Enigma.Off Artifacts.FriendlyFire.Off Artifacts.Glass.Off Artifacts.MixEnemy.Off Artifacts.MonsterTeamGainsItems.Off Artifacts.RandomSurvivorOnRespawn.Off Artifacts.Sacrifice.Off Artifacts.ShadowClone.Off Artifacts.SingleMonsterType.Off Artifacts.Swarms.Off Artifacts.TeamDeath.Off Artifacts.WeakAssKnees.Off Artifacts.WispOnDeath.Off Items.ArmorPlate.On Items.AttackSpeedAndMoveSpeed.On Items.BarrierOnKill.On Items.Bear.On Items.BleedOnHit.On Items.BossDamageBonus.On Items.CritGlasses.On Items.Crowbar.On Items.Firework.On Items.FlatHealth.On Items.FragileDamageBonus.On Items.GoldOnHurt.On Items.HealWhileSafe.On Items.HealingPotion.On Items.Hoof.On Items.ITEM_FIREWORKMUSHROOM_NAME.On Items.ITEM_FIREWORKONHIT_NAME.On Items.IgniteOnKill.On Items.Medkit.On Items.Mushroom.On Items.NearbyDamageBonus.On Items.OutOfCombatArmor.On Items.PersonalShield.On Items.RuinaBlackTea.On Items.ScrapWhite.On Items.SecondarySkillMagazine.On Items.SprintBonus.On Items.StickyBomb.On Items.StunChanceOnHit.On Items.Syringe.On Items.Tooth.On Items.TreasureCache.On Items.WardOnLevel.On Items.AttackSpeedOnCrit.On Items.Bandolier.On Items.BonusGoldPackOnKill.On Items.ChainLightning.On Items.DeathMark.On Items.EnergizedOnEquipmentUse.On Items.EquipmentMagazine.On Items.ExecuteLowHealthElite.On Items.ExplodeOnDeath.On Items.Feather.On Items.FireRing.On Items.FreeChest.On Items.HealOnCrit.On Items.ITEM_FIREWORKABILITY_NAME.On Items.ITEM_FIREWORKDAISY_NAME.On Items.ITEM_FIREWORKONKILL_NAME.On Items.IceRing.On Items.Infusion.On Items.JumpBoost.On Items.Missile.On Items.MoveSpeedOnKill.On Items.Phasing.On Items.PrimarySkillShuriken.On Items.RegeneratingScrap.On Items.RuinaLiuBadge.On Items.RuinaPrescript.On Items.RuinaUdjatMask.On Items.RuinaWeddingRing.On Items.RuinaWorkshopAmmo.On Items.ScrapGreen.On Items.Seed.On Items.SlowOnHit.On Items.SprintArmor.On Items.SprintOutOfCombat.On Items.Squid.On Items.StrengthenBurn.On Items.TPHealingNova.On Items.Thorns.On Items.WarCryOnMultiKill.On Items.AlienHead.On Items.ArmorReductionOnHit.On Items.BINGUS.On Items.BarrierOnOverHeal.On Items.Behemoth.On Items.BounceNearby.On Items.CaptainDefenseMatrix.On Items.Clover.On Items.CritDamage.On Items.Dagger.On Items.DroneWeapons.On Items.ExtraLife.On Items.FallBoots.On Items.GhostOnKill.On Items.HeadHunter.On Items.ITEM_FIREWORKDRONES_NAME.On Items.Icicle.On Items.ImmuneToDebuff.On Items.IncreaseHealing.On Items.KillEliteFrenzy.On Items.LaserTurbine.On Items.MoreMissile.On Items.NovaOnHeal.On Items.PermanentDebuffOnHit.On Items.Plant.On Items.RandomEquipmentTrigger.On Items.RuinaArbitersTrophy.On Items.RuinaReverberation.On Items.ScrapRed.On Items.ShockNearby.On Items.Talisman.On Items.UtilitySkillMagazine.On Items.AutoCastEquipment.On Items.FocusConvergence.On Items.GoldOnHit.On Items.HalfAttackSpeedHalfCooldowns.On Items.HalfSpeedDoubleHealth.On Items.LunarBadLuck.On Items.LunarDagger.On Items.LunarPrimaryReplacement.On Items.LunarSecondaryReplacement.On Items.LunarSpecialReplacement.On Items.LunarSun.On Items.LunarTrinket.On Items.LunarUtilityReplacement.On Items.MonstersOnShrineUse.On Items.RandomDamageZone.On Items.RandomlyLunar.On Items.RepeatHeal.On Items.ShieldOnly.On Items.ArtifactKey.On Items.BeetleGland.On Items.BleedOnHitAndExplode.On Items.FireballsOnHit.On Items.Knurl.On Items.LightningStrikeOnHit.On Items.MinorConstructOnKill.On Items.NovaOnLowHealth.On Items.ParentEgg.On Items.Pearl.On Items.RoboBallBuddy.On Items.ScrapYellow.On Items.ShinyPearl.On Items.SiphonOnLowHealth.On Items.SprintWisp.On Items.TitanGoldDuringTP.On Items.BearVoid.On Items.BleedOnHitVoid.On Items.CritGlassesVoid.On Items.ITEM_ADZE_ITEM.On Items.ITEM_CLOCKWORK_ITEM.On Items.ITEM_EHANCE_VIALS_ITEM.On Items.ITEM_EXT_EXHAUST_ITEM.On Items.MushroomVoid.On Items.TreasureCacheVoid.On Items.ChainLightningVoid.On Items.ElementalRingVoid.On Items.EquipmentMagazineVoid.On Items.ExplodeOnDeathVoid.On Items.ITEM_BARRIERLOTUS_ITEM.On Items.ITEM_EXEBLADE_ITEM.On Items.MissileVoid.On Items.SlowOnHitVoid.On Items.CloverVoid.On Items.ExtraLifeVoid.On Items.ITEM_ORRERY_ITEM.On Items.VoidMegaCrabItem.On Equipment.BFG.On Equipment.Blackhole.On Equipment.BossHunter.On Equipment.BurnNearby.On Equipment.Cleanse.On Equipment.CommandMissile.On Equipment.CrippleWard.On Equipment.CritOnUse.On Equipment.DeathProjectile.On Equipment.DroneBackup.On Equipment.EQUIPMENT_GESTATION_ITEM.On Equipment.FireBallDash.On Equipment.Fruit.On Equipment.GainArmor.On Equipment.Gateway.On Equipment.GoldGat.On Equipment.GummyClone.On Equipment.Jetpack.On Equipment.LifestealOnHit.On Equipment.Lightning.On Equipment.Meteor.On Equipment.Molotov.On Equipment.MultiShopCard.On Equipment.PassiveHealing.On Equipment.Recycle.On Equipment.RuinaBackwardsClock.Off Equipment.Saw.On Equipment.Scanner.On Equipment.TeamWarCry.On Equipment.Tonic.On Equipment.VendingMachine.On Misc.StartingMoney.15 Misc.StageOrder.Normal Misc.KeepMoneyBetweenStages.Off Misc.AllowDropIn.Off</ruleBook>
+  <playerInfos>
+    <PlayerInfo>
+      <name>Virgin</name>
+      <bodyName>RobPaladinBody</bodyName>
+      <killerBodyName>BeetleBody</killerBodyName>
+      <isDead>1</isDead>
+      <statSheet>
+        <fields>
+          <totalGamesPlayed>1</totalGamesPlayed>
+          <totalTimeAlive>87.6500045713037</totalTimeAlive>
+          <totalKills>11</totalKills>
+          <totalDeaths>1</totalDeaths>
+          <totalDamageDealt>749</totalDamageDealt>
+          <totalDamageTaken>299</totalDamageTaken>
+          <totalHealthHealed>80</totalHealthHealed>
+          <highestDamageDealt>45</highestDamageDealt>
+          <highestLevel>2</highestLevel>
+          <totalGoldCollected>55</totalGoldCollected>
+          <maxGoldCollected>55</maxGoldCollected>
+          <totalDistanceTraveled>237.141074482119</totalDistanceTraveled>
+          <totalEliteKills>1</totalEliteKills>
+          <totalTimeAlive.RobPaladinBody>87.6500045713037</totalTimeAlive.RobPaladinBody>
+          <longestRun.RobPaladinBody>87.6542434692383</longestRun.RobPaladinBody>
+          <damageDealtTo.BeetleBody>252</damageDealtTo.BeetleBody>
+          <damageDealtTo.LemurianBody>174</damageDealtTo.LemurianBody>
+          <damageDealtTo.RobPaladinBody>28</damageDealtTo.RobPaladinBody>
+          <damageDealtTo.WispBody>295</damageDealtTo.WispBody>
+          <damageDealtAs.RobPaladinBody>749</damageDealtAs.RobPaladinBody>
+          <damageTakenFrom.BeetleBody>147</damageTakenFrom.BeetleBody>
+          <damageTakenFrom.LemurianBody>40</damageTakenFrom.LemurianBody>
+          <damageTakenFrom.RobPaladinBody>28</damageTakenFrom.RobPaladinBody>
+          <damageTakenFrom.WispBody>84</damageTakenFrom.WispBody>
+          <damageTakenAs.RobPaladinBody>299</damageTakenAs.RobPaladinBody>
+          <killsAgainst.BeetleBody>1</killsAgainst.BeetleBody>
+          <killsAgainst.LemurianBody>2</killsAgainst.LemurianBody>
+          <killsAgainst.WispBody>8</killsAgainst.WispBody>
+          <killsAgainstElite.BeetleBody>1</killsAgainstElite.BeetleBody>
+          <deathsFrom.BeetleBody>1</deathsFrom.BeetleBody>
+          <killsAs.RobPaladinBody>11</killsAs.RobPaladinBody>
+          <deathsAs.RobPaladinBody>1</deathsAs.RobPaladinBody>
+          <timesPicked.RobPaladinBody>1</timesPicked.RobPaladinBody>
+          <totalTimesVisited.golemplains>1</totalTimesVisited.golemplains>
+        </fields>
+      </statSheet>
+      <itemAcquisitionOrder></itemAcquisitionOrder>
+      <itemStacks />
+      <equipment></equipment>
+      <finalMessageToken>PLAYER_DEATH_QUOTE_1</finalMessageToken>
+      <localPlayerIndex>0</localPlayerIndex>
+      <userProfileFileName>f2395fbc-2ac7-440c-bc86-15bec05cb0b3 (1)</userProfileFileName>
+    </PlayerInfo>
+  </playerInfos>
+</RunReport>

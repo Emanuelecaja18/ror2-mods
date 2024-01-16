@@ -1,0 +1,6 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	300374968	item_void_explodeOnDeath_03	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_void_explodeOnDeath_03_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\void\item_void_explodeOnDeath\item_void_explodeOnDeath\item_void_explodeOnDeath_03		18756
+	439830349	item_void_explodeOnDeath_02	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_void_explodeOnDeath_02_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\void\item_void_explodeOnDeath\item_void_explodeOnDeath\item_void_explodeOnDeath_02		18930
+	761256952	item_void_explodeOnDeath_04	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_void_explodeOnDeath_04_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\void\item_void_explodeOnDeath\item_void_explodeOnDeath\item_void_explodeOnDeath_04		19246
+	1059748031	item_void_explodeOnDeath_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_void_explodeOnDeath_01_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\void\item_void_explodeOnDeath\item_void_explodeOnDeath\item_void_explodeOnDeath_01		19558
+

@@ -1,0 +1,4 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	385603791	randomDamageZone_appear	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ror2_lunar_randomDamageZone_appear_01_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_lunar_randomDamageZone\randomDamageZone_appear		82112
+	873881457	randomDamageZone_disappear	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ror2_lunar_randomDamageZone_disappear_01_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_lunar_randomDamageZone\randomDamageZone_disappear		20247
+

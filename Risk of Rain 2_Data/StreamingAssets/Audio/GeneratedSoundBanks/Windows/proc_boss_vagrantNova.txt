@@ -1,0 +1,4 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	79498387	item_proc_vagrantNova_charge_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\vagrant_R_charge_01_7A28DB0A.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_boss_vagrantNova\item_proc_vagrantNova\item_proc_vagrantNova_charge_01		42697
+	662529543	item_proc_vagrantNova_explode_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\vagrant_R_explode_01_7A28DB0A.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_boss_vagrantNova\item_proc_vagrantNova\item_proc_vagrantNova_explode_01		44943
+

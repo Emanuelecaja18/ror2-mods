@@ -1,0 +1,3 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	75204859	item_void_equipmag	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_void_equipmag_01_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\void\item_void_equipmag\item_void_equipmag		60220
+

@@ -1,0 +1,6 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	16172879	RoR2_Thorns_03	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\RoR2_Thorns_03_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_thorns\item_proc_thorns\RoR2_Thorns_03		16641
+	80912320	RoR2_Thorns_02	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\RoR2_Thorns_02_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_thorns\item_proc_thorns\RoR2_Thorns_02		17041
+	360836886	RoR2_Thorns_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\RoR2_Thorns_01_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_thorns\item_proc_thorns\RoR2_Thorns_01		16902
+	389894179	RoR2_Thorns_04	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\RoR2_Thorns_04_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_thorns\item_proc_thorns\RoR2_Thorns_04		16609
+

@@ -1,0 +1,214 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2735935537	Pause_Music			\Music\Pause_Music	
+	3260968109	Play_Music_System			\Music\Play_Music_System	
+	3712621630	Unpause_Music			\Music\Unpause_Music	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	549431000	bossStatus			\Default Work Unit\bossStatus	
+	792781730	Music_system			\Default Work Unit\Music_system	
+	1598298728	Music_menu			\Default Work Unit\Music_menu	
+	1741660947	gameplaySongChoice			\Default Work Unit\gameplaySongChoice	
+	2561284575	bossPhase			\Default Work Unit\bossPhase	
+
+State	ID	Name	State Group			Notes
+	655265632	alive	bossStatus			
+	748895195	None	bossStatus			
+	2044049779	dead	bossStatus			
+	89505537	Gameplay	Music_system			
+	580146960	Bossfight	Music_system			
+	748895195	None	Music_system			
+	778026301	SecretLevel	Music_system			
+	2607556080	Menu	Music_system			
+	113661376	OpeningCutScene1	Music_menu			
+	113661379	OpeningCutscene2	Music_menu			
+	748895195	None	Music_menu			
+	1654435662	Logbook	Music_menu			
+	2121506681	OutroCutsceneFULL	Music_menu			
+	2266819552	OutroCutsceneB	Music_menu			
+	2266819555	OutroCutsceneA	Music_menu			
+	2900001726	DLC1_Credits	Music_menu			
+	3161908922	Main	Music_menu			
+	3912041495	Prismatic	Music_menu			
+	378895182	END_Escape	gameplaySongChoice			
+	664325868	Song20v2	gameplaySongChoice			
+	664325871	Song20v1	gameplaySongChoice			
+	748895195	None	gameplaySongChoice			
+	1706411904	DLC1_Song10	gameplaySongChoice			
+	1706411906	DLC1_Song12	gameplaySongChoice			
+	1723189616	DLC1_Song03	gameplaySongChoice			
+	1723189618	DLC1_Song01	gameplaySongChoice			
+	1723189620	DLC1_Song07	gameplaySongChoice			
+	1723189621	DLC1_Song06	gameplaySongChoice			
+	1723189626	DLC1_Song09	gameplaySongChoice			
+	1723189627	DLC1_Song08	gameplaySongChoice			
+	3076090096	Song24	gameplaySongChoice			
+	3076090097	Song25	gameplaySongChoice			
+	3076090101	Song21	gameplaySongChoice			
+	3076090102	Song22	gameplaySongChoice			
+	3076090103	Song23	gameplaySongChoice			
+	3109645266	Song08	gameplaySongChoice			
+	3109645272	Song02	gameplaySongChoice			
+	3109645276	Song06	gameplaySongChoice			
+	3109645277	Song07	gameplaySongChoice			
+	3109645278	Song04	gameplaySongChoice			
+	3109645279	Song05	gameplaySongChoice			
+	3126422852	Song19	gameplaySongChoice			
+	3126422853	Song18	gameplaySongChoice			
+	3126422857	Song14	gameplaySongChoice			
+	3126422859	Song16	gameplaySongChoice			
+	3126422862	Song13	gameplaySongChoice			
+	3547722878	FULLSong18	gameplaySongChoice			
+	3547722879	FULLSong19	gameplaySongChoice			
+	3564500459	FULLSong02	gameplaySongChoice			
+	3564500462	FULLSong07	gameplaySongChoice			
+	3564500463	FULLSong06	gameplaySongChoice			
+	748895195	None	bossPhase			
+	1057600524	bossDead	bossPhase			
+	3630028968	phase2	bossPhase			
+	3630028969	phase3	bossPhase			
+	3630028971	phase1	bossPhase			
+	3630028974	phase4	bossPhase			
+	3630029026	phaseX	bossPhase			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	681309163	EscapeTimer			\Default Work Unit\EscapeTimer	
+	1010989040	teleporterPlayerStatus			\Default Work Unit\teleporterPlayerStatus	
+	1924079656	teleporterProximity			\Default Work Unit\teleporterProximity	
+	4014092120	teleporterDirection			\Default Work Unit\teleporterDirection	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	3984662	ROR2_DLC1_08_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_08.2.0_BC_FINAL_644D7A08.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\DLC1_Song08\ROR2_DLC1_08\ROR2_DLC1_08_BC		14790
+	26913030	ROR2_02_2_4_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.02.2.4_BC_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong02\ROR2_02_2_FULL\ROR2_02_2_4_BC		13062
+	63882304	ROR2_21_0_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.21.0.1_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\Song21\ROR2_21_0_1\ROR2_21_0_01		21382
+	70706715	ROR2_07_2_4_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.07.2.4_LVL_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong07\ROR2_07_2_0_FULL\ROR2_07_2_4_LVL		15155
+	93202675	ROR2_DLC1_00_MISC FINAL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_00.1.0_MISC_FINAL_644D7A08.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\Menu Switch\DLC1_Credits\ROR2_DLC1_MISC\ROR2_DLC1_00_MISC FINAL		6158
+	98420016	ROR2_27_1_2-A	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.27.1.2-A_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\Menu Switch\OutroCutsceneA\ROR2_27_A\ROR2_27_1_2-A		1930
+	99896716	ROR2_18_2_0_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.18.2.0_LVL_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong18\ROR2_18_2_0_FULL\ROR2_18_2_0_LVL		19974
+	102614151	ROR2_DLC1_09_0_3_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_09.0.3_BC_FINAL_644D7A08.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\DLC1_Song09\ROR2_DLC1_09\ROR2_DLC1_09_0_3_BC		13129
+	138882617	ROR2_07_2_0_TR	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.07.2.0_TR_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong07\ROR2_07_2_0_TR\ROR2_07_2_0_TR		3108
+	140287351	ROR2_DLC1_03_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1.03.1.4_LEVEL_FINAL_644D7A08.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\DLC1_Song03\ROR2_DLC1_03\ROR2_DLC1_03_LVL		11949
+	142066269	ROR2_26_0_2	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.26.0.2_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\Menu Switch\OpenCutscene2\ROR2_26_v2\ROR2_26_0_2		8851
+	164632773	ROR2_25_TR A	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.25_TR A_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song25\ROR2_25_TR A\ROR2_25_TR A		3668
+	164948588	ROR2_27_1_2-B	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.27.1.2-B_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\Menu Switch\OutroCutsceneB\ROR2_27_B\ROR2_27_1_2-B		4567
+	173874167	ROR2_DLC1_09_0_3_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_09.1.2_SNDGR_FINAL_644D7A08.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\DLC1_Song09\ROR2_DLC1_09\ROR2_DLC1_09_0_3_LVL		13551
+	212531320	ROR2_19_3_2_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.19.3.2_LVL_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong19\ROR2_19_2_0_FULL\ROR2_19_3_2_LVL		23216
+	227936497	ROR2_08_1_6_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.08.1.6_LVL_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\Song08\ROR2_08_1_0\ROR2_08_1_6_LVL		15674
+	236503207	ROR2_05_2_0_TR_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.05.2.0_TR_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song05\ROR2_05_2_0_TR\ROR2_05_2_0_TR_01		702
+	261667596	ROR2_22_1_2_TR_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.22.1.2_TR_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song22\ROR2_22_1_2_TR\ROR2_22_1_2_TR_01		3037
+	262318650	ROR2_24_1_7	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.24.1.7_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\Song24\ROR2_24_1_1\ROR2_24_1_7		15075
+	292059699	ROR2_DLC1_08_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_08.2.0_LEVEL_FINAL_644D7A08.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\DLC1_Song08\ROR2_DLC1_08\ROR2_DLC1_08_LVL		14069
+	298524613	ROR2_RUN-pulse_100bpm	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.RUN-pulse_100bpm_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\END_Escape_Sequence\ROR2_RUN\ROR2_RUN-pulse_100bpm		5844
+	325264721	ROR2_DLC1_12_1_3_END-STINGER	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_12.1.3_END-STINGER_644D7A08.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\DLC1_Song12\BossDead\ROR2_DLC1_12_1_3_END-STINGER\ROR2_DLC1_12_1_3_END-STINGER		4414
+	341553039	ROR2_DLC1_01_BC_FINAL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_01.1.0_BC_FINAL_644D7A08.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\DLC1_Song01\ROR2_DLC1_01\ROR2_DLC1_01_BC_FINAL		16142
+	391136384	ROR2_DLC1_01_LEVEL_FINAL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_01.1.0_LEVEL_FINAL_644D7A08.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\DLC1_Song01\ROR2_DLC1_01\ROR2_DLC1_01_LEVEL_FINAL		16053
+	399039152	ROR2_25_TR B	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.25_TR B_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song25\ROR2_25_TR B\ROR2_25_TR B		3135
+	413497987	ROR2_25_PHASE-3	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.25_PHASE-3_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song25\Phase3\ROR2_25_PHASE-3\ROR2_25_PHASE-3		8480
+	413858539	ROR2_DLC1_10_1_3_END_STINGER	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_10.1.3_END_STINGER_644D7A08.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\DLC1_Song10\BossDead\ROR2_DLC1_10_1_3_END_STINGER\ROR2_DLC1_10_1_3_END_STINGER		4744
+	420165709	ROR2_05_2_4_BSS	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.05.2.4_BSS_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song05\TeleporterActive\ROR2_05_2_0_intro\ROR2_05_2_4_BSS		9126
+	420450023	ROR2_DLC1_06_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_06.1.5_LEVEL_FINAL_644D7A08.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\DLC1_Song06\ROR2_DLC1_06\ROR2_DLC1_06_LVL		16412
+	437109528	RoR2_19_2_0_TR	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\RoR2.19.2.0_TR_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong19\RoR2_19_2_0_TR\RoR2_19_2_0_TR		2963
+	451415813	ROR2_DLC1_07_1_0_RAID_FINAL-P2	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_07.1.0_RAID_FINAL-P2_644D7A08.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\DLC1_Song07\Phase2\ROR2_DLC1_07_P2_Loop\ROR2_DLC1_07_1_0_RAID_FINAL-P2		8316
+	463700955	ROR2_DLC1_10_0_3_BSS	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_10.1.1_BOSS_FINAL_644D7A08.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\DLC1_Song10\DLC1_Song10\ROR2_DLC1_10_BSS\ROR2_DLC1_10_0_3_BSS		10414
+	470198866	ROR2_19_3_2_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.19.3.2_BC_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong19\ROR2_19_2_0_FULL\ROR2_19_3_2_BC		19886
+	479904561	ROR2_RUN-ambience_100bpm	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2_RUN-ambience_100bpm_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\END_Escape_Sequence\ROR2_RUN\ROR2_RUN-ambience_100bpm		2363
+	481628262	ROR2_06_2_2_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.06.2.2_LVL_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong06\RoR2_06_2_0_FULL\ROR2_06_2_2_LVL		12162
+	524294122	ROR2_25_PHASE-2	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.25_PHASE-2_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song25\Phase2\ROR2_25_PHASE-2\ROR2_25_PHASE-2		5793
+	524343680	ROR2_14_1_7_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.14.1.7_BC_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\Song14\ROR2_14_1_2\ROR2_14_1_7_BC		20859
+	554304411	ROR2_25_PHASE-4	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.25_PHASE-4_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song25\Phase4\ROR2_25_PHASE-4\ROR2_25_PHASE-4		5278
+	562510426	ROR2_13_1_3_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.13.1.3_BC_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\Song13\ROR2_13_1_1\ROR2_13_1_3_BC		28546
+	562578572	ROR2_13_1_3_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.13.1.3_LVL_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\Song13\ROR2_13_1_1\ROR2_13_1_3_LVL		27822
+	595480947	ROR2_23_END-STINGER	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.23_END-STINGER_644D7A08.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song23\BossDead\ROR2_23_END-STINGER\ROR2_23_END-STINGER		4023
+	597494406	ROR2_23_1_11_BSS	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.23.1.11_BSS_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song23\Song23\ROR2_23_1_11_BSS\ROR2_23_1_11_BSS		16871
+	639709758	ROR2_DLC1_07_P3	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_07.1.0_RAID_FINAL_P3_644D7A08.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\DLC1_Song07\Phase4\ROR2_DLC1_07_P3_Loop\ROR2_DLC1_07_P3		5689
+	652280178	ROR2_02_2_4_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.02.2.4_LVL_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong02\ROR2_02_2_FULL\ROR2_02_2_4_LVL		14870
+	667252565	ROR2_22_1_4_BSS	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.22.1.4_BSS_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song22\TeleporterActive\ROR2_22_1_2_main\ROR2_22_1_4_BSS		16138
+	696083514	ROR2_DLC1_03_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_03.1.4_BC_FINAL_644D7A08.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\DLC1_Song03\ROR2_DLC1_03\ROR2_DLC1_03_BC		11440
+	743529679	ROR2_16_2_3_BSS	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.16.2.3_BSS_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song16\TeleporterActive\ROR2_16_2_0_intro\ROR2_16_2_3_BSS		8520
+	747761815	ROR2_14_1_7_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.14.1.7_LVL_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\Song14\ROR2_14_1_2\ROR2_14_1_7_LVL		20356
+	748770742	ROR2_07_2_4_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.07.2.4_BC_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong07\ROR2_07_2_0_FULL\ROR2_07_2_4_BC		14613
+	763161249	ROR2_01_2_0_LOG	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.01.2.0_LOG_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\Menu Switch\Logbook\ROR2_01_2_0_LOG\ROR2_01_2_0_LOG		15986
+	767717340	ROR2_DLC1_07_PX_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1.07_PX_644D7A08.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\DLC1_Song07\PhaseX\ROR2_DLC1_07_PX\ROR2_DLC1_07_PX_01		5920
+	769255321	ROR2_04_1_2_BZR	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.04.1.2_BZR_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\SecretLevel\ROR2_04_0_3_FULL\ROR2_04_1_2_BZR		9874
+	788150087	ROR2_27_1_2-FULL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.27.1.2-FULL_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\Menu Switch\OutroCutsceneFULL\ROR2_27_1_2_FULL\ROR2_27_1_2-FULL		5758
+	827458606	ROR2_DLC1_06_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_06.1.5_BC_FINAL_644D7A08.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\DLC1_Song06\ROR2_DLC1_06\ROR2_DLC1_06_BC		15833
+	841715067	ROR2_06_2_2_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.06.2.2_BC_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong06\RoR2_06_2_0_FULL\ROR2_06_2_2_BC		12638
+	867700971	ROR2_18_2_0_TR	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.18.2.0_TR_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong18\ROR2_18_2_0_TR\ROR2_18_2_0_TR		3001
+	871519850	ROR2_08_1_6_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.08.1.6_BC_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\Song08\ROR2_08_1_0\ROR2_08_1_6_BC		16599
+	882839468	ROR2_DLC1_12_0_1_BSS	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_12.1.0_BOSS_FINAL_644D7A08.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\DLC1_Song12\DLC1_Song12\ROR2_DLC1_12_BSS\ROR2_DLC1_12_0_1_BSS		11596
+	909654607	RoR2_06_2_0_TR	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\RoR2.06.2.0_TR_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong06\RoR2_06_2_0_TR\RoR2_06_2_0_TR		4965
+	924765785	ROR2_16_2_0_TR_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.16.2.0_TR_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song16\ROR2_16_2_0_TR\ROR2_16_2_0_TR_01		3252
+	930569258	ROR2_DLC1_07_P1_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_07.1.0_RAID_FINAL-P1_644D7A08.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\DLC1_Song07\Phase1\ROR2_DLC1_07_P1_LOOP\ROR2_DLC1_07_P1_01		8698
+	969822193	ROR2_26_1_3	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.26.1.3_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\Menu Switch\OpenCutscene1\ROR2_26_v1\ROR2_26_1_3		8270
+	986106309	ROR2_01_2_1_MENU	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.01.2.1_MENU_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\Menu Switch\Main\ROR2_01_2_1_MENU\ROR2_01_2_1_MENU		15905
+	997798195	ROR2_18_2_0_BC_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.18.2.0_BC_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong18\ROR2_18_2_0_FULL\ROR2_18_2_0_BC_01		17586
+	1019836133	ROR2_25_PHASE-1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.25_PHASE-1_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song25\Phase1\ROR2_25_PHASE-1\ROR2_25_PHASE-1		9168
+	1063396458	ROR2_02_2_1_TR	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.02.2.1_TR_09CE9418.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong02\ROR2_02_2_1_TR\ROR2_02_2_1_TR		3040
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	3984662	ROR2_DLC1_08_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_08.2.0_BC_FINAL_644D7A08.wem	3984662.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\DLC1_Song08\ROR2_DLC1_08\ROR2_DLC1_08_BC	
+	26913030	ROR2_02_2_4_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.02.2.4_BC_09CE9418.wem	26913030.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong02\ROR2_02_2_FULL\ROR2_02_2_4_BC	
+	63882304	ROR2_21_0_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.21.0.1_09CE9418.wem	63882304.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\Song21\ROR2_21_0_1\ROR2_21_0_01	
+	70706715	ROR2_07_2_4_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.07.2.4_LVL_09CE9418.wem	70706715.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong07\ROR2_07_2_0_FULL\ROR2_07_2_4_LVL	
+	93202675	ROR2_DLC1_00_MISC FINAL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_00.1.0_MISC_FINAL_644D7A08.wem	93202675.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\Menu Switch\DLC1_Credits\ROR2_DLC1_MISC\ROR2_DLC1_00_MISC FINAL	
+	98420016	ROR2_27_1_2-A	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.27.1.2-A_09CE9418.wem	98420016.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\Menu Switch\OutroCutsceneA\ROR2_27_A\ROR2_27_1_2-A	
+	99896716	ROR2_18_2_0_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.18.2.0_LVL_09CE9418.wem	99896716.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong18\ROR2_18_2_0_FULL\ROR2_18_2_0_LVL	
+	102614151	ROR2_DLC1_09_0_3_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_09.0.3_BC_FINAL_644D7A08.wem	102614151.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\DLC1_Song09\ROR2_DLC1_09\ROR2_DLC1_09_0_3_BC	
+	138882617	ROR2_07_2_0_TR	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.07.2.0_TR_09CE9418.wem	138882617.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong07\ROR2_07_2_0_TR\ROR2_07_2_0_TR	
+	140287351	ROR2_DLC1_03_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1.03.1.4_LEVEL_FINAL_644D7A08.wem	140287351.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\DLC1_Song03\ROR2_DLC1_03\ROR2_DLC1_03_LVL	
+	142066269	ROR2_26_0_2	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.26.0.2_09CE9418.wem	142066269.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\Menu Switch\OpenCutscene2\ROR2_26_v2\ROR2_26_0_2	
+	164632773	ROR2_25_TR A	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.25_TR A_09CE9418.wem	164632773.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song25\ROR2_25_TR A\ROR2_25_TR A	
+	164948588	ROR2_27_1_2-B	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.27.1.2-B_09CE9418.wem	164948588.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\Menu Switch\OutroCutsceneB\ROR2_27_B\ROR2_27_1_2-B	
+	173874167	ROR2_DLC1_09_0_3_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_09.1.2_SNDGR_FINAL_644D7A08.wem	173874167.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\DLC1_Song09\ROR2_DLC1_09\ROR2_DLC1_09_0_3_LVL	
+	212531320	ROR2_19_3_2_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.19.3.2_LVL_09CE9418.wem	212531320.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong19\ROR2_19_2_0_FULL\ROR2_19_3_2_LVL	
+	227936497	ROR2_08_1_6_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.08.1.6_LVL_09CE9418.wem	227936497.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\Song08\ROR2_08_1_0\ROR2_08_1_6_LVL	
+	236503207	ROR2_05_2_0_TR_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.05.2.0_TR_09CE9418.wem	236503207.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song05\ROR2_05_2_0_TR\ROR2_05_2_0_TR_01	
+	261667596	ROR2_22_1_2_TR_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.22.1.2_TR_09CE9418.wem	261667596.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song22\ROR2_22_1_2_TR\ROR2_22_1_2_TR_01	
+	262318650	ROR2_24_1_7	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.24.1.7_09CE9418.wem	262318650.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\Song24\ROR2_24_1_1\ROR2_24_1_7	
+	292059699	ROR2_DLC1_08_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_08.2.0_LEVEL_FINAL_644D7A08.wem	292059699.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\DLC1_Song08\ROR2_DLC1_08\ROR2_DLC1_08_LVL	
+	298524613	ROR2_RUN-pulse_100bpm	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.RUN-pulse_100bpm_09CE9418.wem	298524613.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\END_Escape_Sequence\ROR2_RUN\ROR2_RUN-pulse_100bpm	
+	325264721	ROR2_DLC1_12_1_3_END-STINGER	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_12.1.3_END-STINGER_644D7A08.wem	325264721.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\DLC1_Song12\BossDead\ROR2_DLC1_12_1_3_END-STINGER\ROR2_DLC1_12_1_3_END-STINGER	
+	341553039	ROR2_DLC1_01_BC_FINAL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_01.1.0_BC_FINAL_644D7A08.wem	341553039.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\DLC1_Song01\ROR2_DLC1_01\ROR2_DLC1_01_BC_FINAL	
+	391136384	ROR2_DLC1_01_LEVEL_FINAL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_01.1.0_LEVEL_FINAL_644D7A08.wem	391136384.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\DLC1_Song01\ROR2_DLC1_01\ROR2_DLC1_01_LEVEL_FINAL	
+	399039152	ROR2_25_TR B	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.25_TR B_09CE9418.wem	399039152.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song25\ROR2_25_TR B\ROR2_25_TR B	
+	413497987	ROR2_25_PHASE-3	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.25_PHASE-3_09CE9418.wem	413497987.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song25\Phase3\ROR2_25_PHASE-3\ROR2_25_PHASE-3	
+	413858539	ROR2_DLC1_10_1_3_END_STINGER	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_10.1.3_END_STINGER_644D7A08.wem	413858539.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\DLC1_Song10\BossDead\ROR2_DLC1_10_1_3_END_STINGER\ROR2_DLC1_10_1_3_END_STINGER	
+	420165709	ROR2_05_2_4_BSS	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.05.2.4_BSS_09CE9418.wem	420165709.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song05\TeleporterActive\ROR2_05_2_0_intro\ROR2_05_2_4_BSS	
+	420450023	ROR2_DLC1_06_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_06.1.5_LEVEL_FINAL_644D7A08.wem	420450023.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\DLC1_Song06\ROR2_DLC1_06\ROR2_DLC1_06_LVL	
+	437109528	RoR2_19_2_0_TR	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\RoR2.19.2.0_TR_09CE9418.wem	437109528.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong19\RoR2_19_2_0_TR\RoR2_19_2_0_TR	
+	451415813	ROR2_DLC1_07_1_0_RAID_FINAL-P2	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_07.1.0_RAID_FINAL-P2_644D7A08.wem	451415813.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\DLC1_Song07\Phase2\ROR2_DLC1_07_P2_Loop\ROR2_DLC1_07_1_0_RAID_FINAL-P2	
+	463700955	ROR2_DLC1_10_0_3_BSS	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_10.1.1_BOSS_FINAL_644D7A08.wem	463700955.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\DLC1_Song10\DLC1_Song10\ROR2_DLC1_10_BSS\ROR2_DLC1_10_0_3_BSS	
+	470198866	ROR2_19_3_2_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.19.3.2_BC_09CE9418.wem	470198866.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong19\ROR2_19_2_0_FULL\ROR2_19_3_2_BC	
+	479904561	ROR2_RUN-ambience_100bpm	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2_RUN-ambience_100bpm_09CE9418.wem	479904561.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\END_Escape_Sequence\ROR2_RUN\ROR2_RUN-ambience_100bpm	
+	481628262	ROR2_06_2_2_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.06.2.2_LVL_09CE9418.wem	481628262.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong06\RoR2_06_2_0_FULL\ROR2_06_2_2_LVL	
+	524294122	ROR2_25_PHASE-2	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.25_PHASE-2_09CE9418.wem	524294122.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song25\Phase2\ROR2_25_PHASE-2\ROR2_25_PHASE-2	
+	524343680	ROR2_14_1_7_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.14.1.7_BC_09CE9418.wem	524343680.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\Song14\ROR2_14_1_2\ROR2_14_1_7_BC	
+	554304411	ROR2_25_PHASE-4	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.25_PHASE-4_09CE9418.wem	554304411.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song25\Phase4\ROR2_25_PHASE-4\ROR2_25_PHASE-4	
+	562510426	ROR2_13_1_3_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.13.1.3_BC_09CE9418.wem	562510426.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\Song13\ROR2_13_1_1\ROR2_13_1_3_BC	
+	562578572	ROR2_13_1_3_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.13.1.3_LVL_09CE9418.wem	562578572.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\Song13\ROR2_13_1_1\ROR2_13_1_3_LVL	
+	595480947	ROR2_23_END-STINGER	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.23_END-STINGER_644D7A08.wem	595480947.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song23\BossDead\ROR2_23_END-STINGER\ROR2_23_END-STINGER	
+	597494406	ROR2_23_1_11_BSS	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.23.1.11_BSS_09CE9418.wem	597494406.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song23\Song23\ROR2_23_1_11_BSS\ROR2_23_1_11_BSS	
+	639709758	ROR2_DLC1_07_P3	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_07.1.0_RAID_FINAL_P3_644D7A08.wem	639709758.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\DLC1_Song07\Phase4\ROR2_DLC1_07_P3_Loop\ROR2_DLC1_07_P3	
+	652280178	ROR2_02_2_4_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.02.2.4_LVL_09CE9418.wem	652280178.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong02\ROR2_02_2_FULL\ROR2_02_2_4_LVL	
+	667252565	ROR2_22_1_4_BSS	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.22.1.4_BSS_09CE9418.wem	667252565.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song22\TeleporterActive\ROR2_22_1_2_main\ROR2_22_1_4_BSS	
+	696083514	ROR2_DLC1_03_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_03.1.4_BC_FINAL_644D7A08.wem	696083514.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\DLC1_Song03\ROR2_DLC1_03\ROR2_DLC1_03_BC	
+	743529679	ROR2_16_2_3_BSS	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.16.2.3_BSS_09CE9418.wem	743529679.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song16\TeleporterActive\ROR2_16_2_0_intro\ROR2_16_2_3_BSS	
+	747761815	ROR2_14_1_7_LVL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.14.1.7_LVL_09CE9418.wem	747761815.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\Song14\ROR2_14_1_2\ROR2_14_1_7_LVL	
+	748770742	ROR2_07_2_4_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.07.2.4_BC_09CE9418.wem	748770742.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong07\ROR2_07_2_0_FULL\ROR2_07_2_4_BC	
+	763161249	ROR2_01_2_0_LOG	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.01.2.0_LOG_09CE9418.wem	763161249.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\Menu Switch\Logbook\ROR2_01_2_0_LOG\ROR2_01_2_0_LOG	
+	767717340	ROR2_DLC1_07_PX_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1.07_PX_644D7A08.wem	767717340.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\DLC1_Song07\PhaseX\ROR2_DLC1_07_PX\ROR2_DLC1_07_PX_01	
+	769255321	ROR2_04_1_2_BZR	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.04.1.2_BZR_09CE9418.wem	769255321.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\SecretLevel\ROR2_04_0_3_FULL\ROR2_04_1_2_BZR	
+	788150087	ROR2_27_1_2-FULL	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.27.1.2-FULL_09CE9418.wem	788150087.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\Menu Switch\OutroCutsceneFULL\ROR2_27_1_2_FULL\ROR2_27_1_2-FULL	
+	827458606	ROR2_DLC1_06_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_06.1.5_BC_FINAL_644D7A08.wem	827458606.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\DLC1_Song06\ROR2_DLC1_06\ROR2_DLC1_06_BC	
+	841715067	ROR2_06_2_2_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.06.2.2_BC_09CE9418.wem	841715067.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong06\RoR2_06_2_0_FULL\ROR2_06_2_2_BC	
+	867700971	ROR2_18_2_0_TR	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.18.2.0_TR_09CE9418.wem	867700971.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong18\ROR2_18_2_0_TR\ROR2_18_2_0_TR	
+	871519850	ROR2_08_1_6_BC	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.08.1.6_BC_09CE9418.wem	871519850.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\Song08\ROR2_08_1_0\ROR2_08_1_6_BC	
+	882839468	ROR2_DLC1_12_0_1_BSS	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_12.1.0_BOSS_FINAL_644D7A08.wem	882839468.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\DLC1_Song12\DLC1_Song12\ROR2_DLC1_12_BSS\ROR2_DLC1_12_0_1_BSS	
+	909654607	RoR2_06_2_0_TR	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\RoR2.06.2.0_TR_09CE9418.wem	909654607.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong06\RoR2_06_2_0_TR\RoR2_06_2_0_TR	
+	924765785	ROR2_16_2_0_TR_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.16.2.0_TR_09CE9418.wem	924765785.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song16\ROR2_16_2_0_TR\ROR2_16_2_0_TR_01	
+	930569258	ROR2_DLC1_07_P1_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.DLC1_07.1.0_RAID_FINAL-P1_644D7A08.wem	930569258.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\DLC1_Song07\Phase1\ROR2_DLC1_07_P1_LOOP\ROR2_DLC1_07_P1_01	
+	969822193	ROR2_26_1_3	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.26.1.3_09CE9418.wem	969822193.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\Menu Switch\OpenCutscene1\ROR2_26_v1\ROR2_26_1_3	
+	986106309	ROR2_01_2_1_MENU	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.01.2.1_MENU_09CE9418.wem	986106309.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\Menu Switch\Main\ROR2_01_2_1_MENU\ROR2_01_2_1_MENU	
+	997798195	ROR2_18_2_0_BC_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.18.2.0_BC_09CE9418.wem	997798195.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong18\ROR2_18_2_0_FULL\ROR2_18_2_0_BC_01	
+	1019836133	ROR2_25_PHASE-1	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.25_PHASE-1_09CE9418.wem	1019836133.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\BossSongChoice\Song25\Phase1\ROR2_25_PHASE-1\ROR2_25_PHASE-1	
+	1063396458	ROR2_02_2_1_TR	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ROR2.02.2.1_TR_09CE9418.wem	1063396458.wem	\Interactive Music Hierarchy\Default Work Unit\Music_System\GameplaySongChoice\FULLSong02\ROR2_02_2_1_TR\ROR2_02_2_1_TR	
+

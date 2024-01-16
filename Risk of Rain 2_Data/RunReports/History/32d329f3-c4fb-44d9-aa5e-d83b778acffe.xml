@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunReport>
+  <version>2</version>
+  <runGuid>32d329f3-c4fb-44d9-aa5e-d83b778acffe</runGuid>
+  <gameModeName>InfiniteTowerRun</gameModeName>
+  <gameEnding>StandardLoss</gameEnding>
+  <seed>9185591030625069359</seed>
+  <runStartTimeUtc>5249591582993555364</runStartTimeUtc>
+  <snapshotTimeUtc>5249591584791666376</snapshotTimeUtc>
+  <snapshotRunTime>179.3337</snapshotRunTime>
+  <runStopwatchValue>179.3337</runStopwatchValue>
+  <ruleBook>Difficulty.Normal Expansions.DLC1.On Artifacts.Bomb.Off Artifacts.Command.Off Artifacts.EliteOnly.Off Artifacts.Enigma.Off Artifacts.FriendlyFire.Off Artifacts.Glass.Off Artifacts.MixEnemy.Off Artifacts.MonsterTeamGainsItems.Off Artifacts.RandomSurvivorOnRespawn.Off Artifacts.Sacrifice.Off Artifacts.ShadowClone.Off Artifacts.SingleMonsterType.Off Artifacts.Swarms.Off Artifacts.TeamDeath.Off Artifacts.WeakAssKnees.Off Artifacts.WispOnDeath.Off Items.ArmorPlate.On Items.AttackSpeedAndMoveSpeed.On Items.BarrierOnKill.On Items.Bear.On Items.BleedOnHit.On Items.BossDamageBonus.On Items.CritGlasses.On Items.Crowbar.On Items.Firework.Off Items.FlatHealth.On Items.FragileDamageBonus.On Items.GoldOnHurt.On Items.HealWhileSafe.On Items.HealingPotion.On Items.Hoof.On Items.IgniteOnKill.On Items.Medkit.On Items.Mushroom.On Items.NearbyDamageBonus.On Items.OutOfCombatArmor.On Items.PersonalShield.On Items.ScrapWhite.On Items.SecondarySkillMagazine.On Items.SprintBonus.On Items.StickyBomb.On Items.StunChanceOnHit.On Items.Syringe.On Items.Tooth.On Items.TreasureCache.On Items.WardOnLevel.On Items.AttackSpeedOnCrit.On Items.Bandolier.On Items.BonusGoldPackOnKill.On Items.ChainLightning.On Items.DeathMark.On Items.EnergizedOnEquipmentUse.On Items.EquipmentMagazine.On Items.ExecuteLowHealthElite.On Items.ExplodeOnDeath.On Items.Feather.On Items.FireRing.On Items.FreeChest.On Items.HealOnCrit.On Items.IceRing.On Items.Infusion.On Items.JumpBoost.On Items.Missile.On Items.MoveSpeedOnKill.On Items.Phasing.On Items.PrimarySkillShuriken.On Items.RegeneratingScrap.On Items.ScrapGreen.On Items.Seed.On Items.SlowOnHit.On Items.SprintArmor.On Items.SprintOutOfCombat.On Items.Squid.Off Items.StrengthenBurn.On Items.TPHealingNova.On Items.Thorns.On Items.WarCryOnMultiKill.On Items.AlienHead.On Items.ArmorReductionOnHit.On Items.BarrierOnOverHeal.On Items.Behemoth.On Items.BounceNearby.On Items.CaptainDefenseMatrix.On Items.Clover.Off Items.CritDamage.On Items.Dagger.On Items.DroneWeapons.Off Items.ExtraLife.On Items.FallBoots.On Items.GhostOnKill.On Items.HeadHunter.On Items.Icicle.On Items.ImmuneToDebuff.On Items.IncreaseHealing.Off Items.KillEliteFrenzy.On Items.LaserTurbine.On Items.MoreMissile.On Items.NovaOnHeal.Off Items.PermanentDebuffOnHit.On Items.Plant.On Items.RandomEquipmentTrigger.On Items.ScrapRed.On Items.ShockNearby.On Items.Talisman.On Items.UtilitySkillMagazine.On Items.AutoCastEquipment.On Items.FocusConvergence.Off Items.GoldOnHit.On Items.HalfAttackSpeedHalfCooldowns.On Items.HalfSpeedDoubleHealth.On Items.LunarBadLuck.On Items.LunarDagger.On Items.LunarPrimaryReplacement.On Items.LunarSecondaryReplacement.On Items.LunarSpecialReplacement.On Items.LunarSun.On Items.LunarTrinket.Off Items.LunarUtilityReplacement.On Items.MonstersOnShrineUse.On Items.RandomDamageZone.On Items.RandomlyLunar.On Items.RepeatHeal.On Items.ShieldOnly.On Items.ArtifactKey.On Items.BeetleGland.On Items.BleedOnHitAndExplode.On Items.FireballsOnHit.On Items.Knurl.On Items.LightningStrikeOnHit.On Items.MinorConstructOnKill.On Items.NovaOnLowHealth.On Items.ParentEgg.On Items.Pearl.On Items.RoboBallBuddy.On Items.ScrapYellow.On Items.ShinyPearl.On Items.SiphonOnLowHealth.On Items.SprintWisp.On Items.TitanGoldDuringTP.Off Items.BearVoid.On Items.BleedOnHitVoid.On Items.CritGlassesVoid.On Items.MushroomVoid.On Items.TreasureCacheVoid.On Items.ChainLightningVoid.On Items.ElementalRingVoid.On Items.EquipmentMagazineVoid.On Items.ExplodeOnDeathVoid.On Items.MissileVoid.On Items.SlowOnHitVoid.On Items.CloverVoid.On Items.ExtraLifeVoid.On Items.VoidMegaCrabItem.On Equipment.BFG.On Equipment.Blackhole.On Equipment.BossHunter.On Equipment.BurnNearby.On Equipment.Cleanse.On Equipment.CommandMissile.On Equipment.CrippleWard.On Equipment.CritOnUse.On Equipment.DeathProjectile.On Equipment.DroneBackup.On Equipment.FireBallDash.On Equipment.Fruit.On Equipment.GainArmor.On Equipment.Gateway.On Equipment.GoldGat.On Equipment.GummyClone.On Equipment.Jetpack.On Equipment.LifestealOnHit.On Equipment.Lightning.On Equipment.Meteor.On Equipment.Molotov.On Equipment.MultiShopCard.On Equipment.PassiveHealing.On Equipment.Recycle.On Equipment.Saw.On Equipment.Scanner.On Equipment.TeamWarCry.On Equipment.Tonic.On Equipment.VendingMachine.On Misc.StartingMoney.15 Misc.StageOrder.Normal Misc.KeepMoneyBetweenStages.Off Misc.AllowDropIn.Off</ruleBook>
+  <playerInfos>
+    <PlayerInfo>
+      <name>ZXC 1000-7 Dead Inside Kaneki</name>
+      <bodyName>EngiBody</bodyName>
+      <killerBodyName>HermitCrabBody</killerBodyName>
+      <isDead>1</isDead>
+      <statSheet>
+        <fields>
+          <totalGamesPlayed>1</totalGamesPlayed>
+          <totalTimeAlive>178.966676000506</totalTimeAlive>
+          <totalKills>10</totalKills>
+          <totalMinionKills>13</totalMinionKills>
+          <totalDeaths>1</totalDeaths>
+          <totalDamageDealt>1346</totalDamageDealt>
+          <totalMinionDamageDealt>1492</totalMinionDamageDealt>
+          <totalDamageTaken>312</totalDamageTaken>
+          <highestDamageDealt>84</highestDamageDealt>
+          <highestLevel>2</highestLevel>
+          <totalGoldCollected>39</totalGoldCollected>
+          <maxGoldCollected>39</maxGoldCollected>
+          <totalDistanceTraveled>1082.86792592371</totalDistanceTraveled>
+          <totalItemsCollected>2</totalItemsCollected>
+          <highestItemsCollected>2</highestItemsCollected>
+          <highestInfiniteTowerWaveReached>2</highestInfiniteTowerWaveReached>
+          <totalPurchases>2</totalPurchases>
+          <highestPurchases>2</highestPurchases>
+          <totalGoldPurchases>1</totalGoldPurchases>
+          <highestGoldPurchases>1</highestGoldPurchases>
+          <totalTimeAlive.EngiBody>178.966676000506</totalTimeAlive.EngiBody>
+          <longestRun.EngiBody>179.33366394043</longestRun.EngiBody>
+          <damageDealtTo.HermitCrabBody>64</damageDealtTo.HermitCrabBody>
+          <damageDealtTo.ImpBody>448</damageDealtTo.ImpBody>
+          <damageDealtTo.LemurianBody>834</damageDealtTo.LemurianBody>
+          <damageDealtAs.EngiBody>1346</damageDealtAs.EngiBody>
+          <minionDamageDealtAs.EngiBody>1492</minionDamageDealtAs.EngiBody>
+          <damageTakenFrom.HermitCrabBody>242</damageTakenFrom.HermitCrabBody>
+          <damageTakenFrom.LemurianBody>52</damageTakenFrom.LemurianBody>
+          <damageTakenAs.EngiBody>312</damageTakenAs.EngiBody>
+          <killsAgainst.ImpBody>4</killsAgainst.ImpBody>
+          <killsAgainst.LemurianBody>6</killsAgainst.LemurianBody>
+          <deathsFrom.HermitCrabBody>1</deathsFrom.HermitCrabBody>
+          <killsAs.EngiBody>10</killsAs.EngiBody>
+          <minionKillsAs.EngiBody>13</minionKillsAs.EngiBody>
+          <deathsAs.EngiBody>1</deathsAs.EngiBody>
+          <timesPicked.EngiBody>1</timesPicked.EngiBody>
+          <highestInfiniteTowerWaveReachedNormal.EngiBody>2</highestInfiniteTowerWaveReachedNormal.EngiBody>
+          <totalCollected.SprintArmor>1</totalCollected.SprintArmor>
+          <totalCollected.Tooth>1</totalCollected.Tooth>
+          <highestCollected.SprintArmor>1</highestCollected.SprintArmor>
+          <highestCollected.Tooth>1</highestCollected.Tooth>
+          <totalTimesVisited.itdampcave>1</totalTimesVisited.itdampcave>
+        </fields>
+      </statSheet>
+      <itemAcquisitionOrder>SprintArmor Tooth</itemAcquisitionOrder>
+      <itemStacks>
+        <SprintArmor>1</SprintArmor>
+        <Tooth>1</Tooth>
+      </itemStacks>
+      <equipment></equipment>
+      <finalMessageToken>PLAYER_DEATH_QUOTE_21</finalMessageToken>
+      <localPlayerIndex>0</localPlayerIndex>
+      <userProfileFileName>f2395fbc-2ac7-440c-bc86-15bec05cb0b3</userProfileFileName>
+    </PlayerInfo>
+  </playerInfos>
+</RunReport>

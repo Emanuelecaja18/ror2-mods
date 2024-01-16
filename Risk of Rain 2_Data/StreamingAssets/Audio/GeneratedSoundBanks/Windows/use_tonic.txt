@@ -1,0 +1,9 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	313542921	item_use_tonic_debuff_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_use_tonic_debuff_01_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_lunar_tonic\item_use_tonic_debuff\item_use_tonic_debuff_01		40785
+	315700320	item_use_tonic_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_use_tonic_01_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_lunar_tonic\item_use_tonic\item_use_tonic_01		21997
+	490971833	item_use_tonic_04	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_use_tonic_04_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_lunar_tonic\item_use_tonic\item_use_tonic_04		28088
+	814196786	item_use_tonic_03	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_use_tonic_03_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_lunar_tonic\item_use_tonic\item_use_tonic_03		29500
+	834530879	item_use_tonic_debuff_02	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_use_tonic_debuff_02_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_lunar_tonic\item_use_tonic_debuff\item_use_tonic_debuff_02		40886
+	839013280	item_use_tonic_02	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_use_tonic_02_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_lunar_tonic\item_use_tonic\item_use_tonic_02		26875
+	1011478559	item_use_tonic_debuff_03	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_use_tonic_debuff_03_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_lunar_tonic\item_use_tonic_debuff\item_use_tonic_debuff_03		43224
+

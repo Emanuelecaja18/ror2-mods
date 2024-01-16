@@ -1,0 +1,5 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	152479129	UI_voidCradle_open_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\UI_voidCradle_open_01_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Environment\Objects\UI_voidCradle\ui_obj_voidCradle_open\UI_voidCradle_open_01		69149
+	278115995	UI_voidCradle_open_03	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\UI_voidCradle_open_03_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Environment\Objects\UI_voidCradle\ui_obj_voidCradle_open\UI_voidCradle_open_03		72582
+	1013753468	UI_voidCradle_open_02	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\UI_voidCradle_open_02_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Environment\Objects\UI_voidCradle\ui_obj_voidCradle_open\UI_voidCradle_open_02		68578
+

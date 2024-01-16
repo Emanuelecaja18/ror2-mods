@@ -1,0 +1,6 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	28820047	item_proc_strengthenBurn_04	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_proc_strengthenBurn_04_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_strengthenBurn\item_proc_strengthenBurn\item_proc_strengthenBurn_04		31967
+	580858108	item_proc_strengthenBurn_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_proc_strengthenBurn_01_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_strengthenBurn\item_proc_strengthenBurn\item_proc_strengthenBurn_01		28581
+	816636861	item_proc_strengthenBurn_02	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_proc_strengthenBurn_02_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_strengthenBurn\item_proc_strengthenBurn\item_proc_strengthenBurn_02		22617
+	932528770	item_proc_strengthenBurn_03	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_proc_strengthenBurn_03_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\proc\item_proc_strengthenBurn\item_proc_strengthenBurn\item_proc_strengthenBurn_03		28677
+

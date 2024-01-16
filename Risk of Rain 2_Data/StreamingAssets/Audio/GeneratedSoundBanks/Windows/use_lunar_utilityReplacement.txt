@@ -1,0 +1,5 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	707355836	ror2_item_lunar_use_utilityReplacement_end_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ror2_item_lunar_use_utilityReplacement_end_01_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_lunar_utilityReplacement\ror2_item_lunar_use_utilityReplacement_end_01		30184
+	810665661	ror2_item_lunar_use_utilityReplacement_start_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ror2_item_lunar_use_utilityReplacement_start_01_DDCC57D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_lunar_utilityReplacement\ror2_item_lunar_use_utilityReplacement_start_01		43566
+	855491855	ror2_item_lunar_use_utilityReplacement_loop_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\ror2_item_lunar_use_utilityReplacement_loop_01_A717E084.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\use\item_use_lunar_utilityReplacement\ror2_item_lunar_use_utilityReplacement_loop_01		99294
+

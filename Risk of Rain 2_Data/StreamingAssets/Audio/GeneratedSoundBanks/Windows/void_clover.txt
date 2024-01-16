@@ -1,0 +1,5 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	399336935	item_void_clover_03	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_void_clover_03_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\void\item_void_clover\item_void_clover\item_void_clover_03		84756
+	505374035	item_void_clover_02	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_void_clover_02_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\void\item_void_clover\item_void_clover\item_void_clover_02		97220
+	893486936	item_void_clover_01	D:\SkewSoundP4\WwiseProjects\RiskOfRain2\RoR2_WwiseProject\.cache\Windows\SFX\item_void_clover_01_972DACE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Items\void\item_void_clover\item_void_clover\item_void_clover_01		89507
+
