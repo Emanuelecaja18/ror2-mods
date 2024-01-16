@@ -2,7 +2,9 @@
 !/_state
 !/.gitignore
 !/BepInEx
+!/MODS TOOLS
 !/.doorstop_version
 !/doorstop_config.ini
 !/mods.yml
 !/winhttp.dll
+MODS TOOLS/CopyMods.bat
