@@ -813,3 +813,30 @@
   enabled: true
   icon: C:/Users/emanu/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/RiskOfRain2/cache/EnforcerGang-SniperClassic/1.5.5/icon.png
+- manifestVersion: 1
+  name: Dragonyck-Tracer
+  authorName: Dragonyck
+  websiteUrl: https://thunderstore.io/package/Dragonyck/Tracer/
+  displayName: Tracer
+  description: "'Cheers, love! The cavalry's here!'"
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - RiskofThunder-R2API_ContentManagement-1.0.0
+    - RiskofThunder-R2API_Sound-1.0.0
+    - RiskofThunder-R2API_Networking-1.0.0
+    - RiskofThunder-R2API_Loadout-1.0.0
+    - RiskofThunder-R2API_Language-1.0.0
+    - RiskofThunder-R2API_Prefab-1.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 6
+    patch: 1
+  enabled: true
+  icon: C:/Users/emanu/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/RiskOfRain2/cache/Dragonyck-Tracer/1.6.1/icon.png

@@ -1,0 +1,14 @@
+{
+	"name": "Tracer",
+	"version_number": "1.6.1",
+	"website_url": "",
+	"description": " 'Cheers, love! The cavalry's here!' ",
+	"dependencies": [
+		"RiskofThunder-R2API_ContentManagement-1.0.0",
+		"RiskofThunder-R2API_Language-1.0.0",
+		"RiskofThunder-R2API_Loadout-1.0.0",
+		"RiskofThunder-R2API_Networking-1.0.0",
+		"RiskofThunder-R2API_Prefab-1.0.1",
+		"RiskofThunder-R2API_Sound-1.0.0"
+	]
+}
