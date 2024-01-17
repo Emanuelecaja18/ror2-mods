@@ -496,7 +496,7 @@ Tracer.Recall (RuntimeType)
 [Warning: Unity Log] Could not find scene with name "loadingbasic".
 [Warning: Unity Log] Could not find scene with name "intro".
 [Info   : Unity Log] Command "set_scene" failed: "intro" is not a valid scene.
-[Info   : Unity Log] Game content load completed in 17559ms.
+[Info   : Unity Log] Game content load completed in 14120ms.
 [Info   : Unity Log] Setting current language to "en"
 [Error  : Unity Log] [RoR2.ItemCatalog] Unable to register BuffInfo for Deafened
 [Info   : Unity Log] [RoR2.Loadout+BodyLoadoutManager] Tried to add duplicate node /Loadout/Bodies/GokuBody/GokuPrimarySkillFamily.
@@ -618,83 +618,13 @@ RoR2.SteamworksLobbyDataGenerator,
 RoR2.UI.LogBook.LogBookController,
 RoR2.EOSLobbyDataGenerator
 [Info   : Unity Log] Attempting to load user profile /UserProfiles/f2395fbc-2ac7-440c-bc86-15bec05cb0b3 (1).xml
-[Info   : Unity Log] stream.Length=241905
+[Info   : Unity Log] stream.Length=241993
 [Info   : Unity Log] Unloaded scene loadingbasic
 [Info   : Unity Log] Active scene changed from  to splash
 [Info   : Unity Log] Loaded scene splash loadSceneMode=Single
-[Info   : Unity Log] Setting offline scene to intro
-[Info   : Unity Log] Unloaded scene splash
-[Info   : Unity Log] Active scene changed from  to intro
-[Info   : Unity Log] Loaded scene intro loadSceneMode=Single
-[Info   : Unity Log] Setting offline scene to title
-[Info   : Unity Log] Unloaded scene intro
-[Info   : Unity Log] Active scene changed from  to title
-[Info   : Unity Log] Loaded scene title loadSceneMode=Single
-[Info   : Unity Log] BaseMainMenuScreen: OnEnter()
-[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object.
-Stack trace:
-RoR2.UI.SkinControllers.ButtonSkinController.StaticUpdate () (at <2b2f3d5000df48ae8f94a9b49e82d786>:IL_0014)
-RoR2.RoR2Application.Update () (at <2b2f3d5000df48ae8f94a9b49e82d786>:IL_005F)
-
-[Info   : Unity Log] BaseMainMenuScreen: OnEnter()
-[Info   : Unity Log] Tried to add duplicate node /Logbook/LOGBOOK_CATEGORY_MONSTER/NULLIFIER_BODY_NAME
-[Info   : Unity Log] Tried to add duplicate node /Logbook/LOGBOOK_CATEGORY_MONSTER/VOIDJAILER_BODY_NAME
-[Info   : Unity Log] Tried to add duplicate node /Logbook/LOGBOOK_CATEGORY_MONSTER/VOIDMEGACRAB_BODY_NAME
-[Info   : Unity Log] BaseMainMenuScreen: OnEnter()
-[Info   : Unity Log] NetworkManagerSystem.desiredHost={ hostType=Self listen=False maxPlayers=4 }
-[Info   :R2API.Networking] Server Handlers registered
-[Warning: Unity Log] The prefab 'ArenaMissionController' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
-[Warning: Unity Log] The prefab 'Moon2DropshipZone' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
-[Warning: Unity Log] The prefab 'HOLDER_ Gauntlets' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
-[Warning: Unity Log] The prefab 'VoidCamp' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
-[Info   :R2API.Networking] Client Handlers registered
-[Info   : Unity Log] Unloaded scene title
-[Info   : Unity Log] Active scene changed from  to lobby
-[Info   : Unity Log] Loaded scene lobby loadSceneMode=Single
-[Info   : Unity Log] Adding local player controller 0 on connection hostId: -1 connectionId: 0 isReady: False channel count: 0
-[Info   : Unity Log] NetworkManagerSystem.AddPlayerInternal(conn=hostId: -1 connectionId: 0 isReady: False channel count: 0, playerControllerId=0, extraMessageReader=NetBuf sz:247 pos:247
-[Info   : Unity Log] OnClientSceneChanged networkSceneName=lobby loadedScenes=lobby
-[Error  : Unity Log] A connection has already been set as ready. There can only be one.
-[Info   : Unity Log] Player 0 already added, aborting.
-[Info   : Unity Log] SetSurvivorPreferenceClient survivorIndex=5, bodyIndex=27
-[Info   : Unity Log] Changinging body preference for XxX_MoonRiser_XxX (RoR2.NetworkUserId) from None to 27
-[Info   : Unity Log] Changinging body preference for XxX_MoonRiser_XxX (RoR2.NetworkUserId) from None to 27
-[Info   : Unity Log] Could not load config /Config/server_pregame.cfg: Could not find file "D:\Games\ror2-mods\Risk of Rain 2_Data\Config\server_pregame.cfg"
-[Info   : Unity Log] Attempting to generate PreGameVoteController for XxX_MoonRiser_XxX
-[Info   : Unity Log] PreGameRuleVoteController.ClientTransmitVotesToServer()
-[Info   : Unity Log] Received vote from XxX_MoonRiser_XxX
-[Info   : Unity Log] Accepting vote from XxX_MoonRiser_XxX
-[Info   : Unity Log] <style=cEvent>XxX_MoonRiser_XxX connected.</color>
-[Info   : Unity Log] SetSurvivorPreferenceClient survivorIndex=2, bodyIndex=68
-[Info   : Unity Log] Changinging body preference for XxX_MoonRiser_XxX (RoR2.NetworkUserId) from 27 to 68
-[Info   : Unity Log] Changinging body preference for XxX_MoonRiser_XxX (RoR2.NetworkUserId) from 27 to 68
-[Info   : Unity Log] SetSurvivorPreferenceClient survivorIndex=1, bodyIndex=53
-[Info   : Unity Log] Changinging body preference for XxX_MoonRiser_XxX (RoR2.NetworkUserId) from 68 to 53
-[Info   : Unity Log] Changinging body preference for XxX_MoonRiser_XxX (RoR2.NetworkUserId) from 68 to 53
-[Warning: Unity Log] Animator.GotoState: State could not be found
-[Warning: Unity Log] Invalid Layer Index '-1'
-[Warning: Unity Log] Animator.GotoState: State could not be found
-[Warning: Unity Log] Invalid Layer Index '-1'
-[Warning: Unity Log] Invalid Layer Index '-1'
-[Warning: Unity Log] Invalid Layer Index '-1'
-[Info   : Unity Log] SetSurvivorPreferenceClient survivorIndex=15, bodyIndex=130
-[Info   : Unity Log] Changinging body preference for XxX_MoonRiser_XxX (RoR2.NetworkUserId) from 53 to 130
-[Info   : Unity Log] Changinging body preference for XxX_MoonRiser_XxX (RoR2.NetworkUserId) from 53 to 130
-[Info   : Unity Log] Saved file "f2395fbc-2ac7-440c-bc86-15bec05cb0b3 (1).xml" (241905 bytes)
 [Info   : Unity Log] in save archive convars
 [Info   : Unity Log] Shutting down Steamworks...
 [Info   : Unity Log] Shut down Steamworks.
-[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
-Stack trace:
-RoR2.UI.RuleChoiceController.FindNetworkUser () (at <2b2f3d5000df48ae8f94a9b49e82d786>:IL_0005)
-RoR2.UI.RuleChoiceController.UpdateFromVotes () (at <2b2f3d5000df48ae8f94a9b49e82d786>:IL_0062)
-RoR2.UI.RuleChoiceController+<>c.<.cctor>b__16_0 () (at <2b2f3d5000df48ae8f94a9b49e82d786>:IL_0014)
-RoR2.PreGameRuleVoteController.UpdateGameVotes () (at <2b2f3d5000df48ae8f94a9b49e82d786>:IL_01BE)
-RoR2.PreGameRuleVoteController+<>c.<.cctor>b__40_0 (RoR2.PreGameController controller) (at <2b2f3d5000df48ae8f94a9b49e82d786>:IL_0000)
-RoR2.PreGameController.RecalculateModifierAvailability () (at <2b2f3d5000df48ae8f94a9b49e82d786>:IL_0100)
-RoR2.PreGameController.OnNetworkUserLost (RoR2.NetworkUser networkUser) (at <2b2f3d5000df48ae8f94a9b49e82d786>:IL_0007)
-RoR2.NetworkUser.OnDisable () (at <2b2f3d5000df48ae8f94a9b49e82d786>:IL_0009)
-
 [Debug  :RoR2BepInExPack] Hook added by assembly:  for: RoR2.Run.Start
 [Debug  :RoR2BepInExPack] Hook added by assembly:  for: RoR2.HealthComponent.TakeDamage
 [Debug  :RoR2BepInExPack] Hook added by assembly:  for: RoR2.HealthComponent.TakeDamage
@@ -706,8 +636,4 @@ RoR2.NetworkUser.OnDisable () (at <2b2f3d5000df48ae8f94a9b49e82d786>:IL_0009)
 [Debug  :RoR2BepInExPack] Hook removed by assembly: R2API.Language.dll for: RoR2.Language.TokenIsRegistered
 [Debug  :RoR2BepInExPack] Hook removed by assembly: R2API.Skins.dll for: RoR2.ModelSkinController.ApplySkin
 [Debug  :RoR2BepInExPack] Hook removed by assembly: R2API.Skins.dll for: RoR2.EffectComponent.Start
-[Debug  :RoR2BepInExPack] Hook removed by assembly: R2API.Skins.dll for: RoR2.EffectManager.SpawnEffect
-[Debug  :RoR2BepInExPack] Hook removed by assembly: R2API.Skins.dll for: EntityStates.BasicMeleeAttack.BeginMeleeAttackEffect
-[Debug  :RoR2BepInExPack] Hook removed by assembly: R2API.Sound.dll for: RoR2.MusicController.Start
-[Debug  :RoR2BepInExPack] Hook removed by assembly: R2API.Sound.dll for: RoR2.MusicController.UpdateState
-[Info   :FixPluginTypesSerialization] Restored original AssemblyNames list
+[Debug  :RoR2BepInExPack] Hook removed by assembly: R2API.Skins.dll 
