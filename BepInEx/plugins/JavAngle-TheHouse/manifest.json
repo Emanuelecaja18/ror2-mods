@@ -1,0 +1,12 @@
+{
+    "name": "TheHouse",
+    "version_number": "2.1.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "Adds new Survivor ''The House'' who wields a deck of cards and an eccentric roulette wheel revolver",
+    "dependencies": [
+    "tristanmcpherson-R2API-4.4.1",
+    "bbepis-BepInExPack-5.4.2103",
+    "RiskofThunder-HookGenPatcher-1.2.3",
+    "JavAngle-OrographicGambitBaseMod-1.0.0"
+    ]
+}

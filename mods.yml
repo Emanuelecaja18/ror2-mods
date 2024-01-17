@@ -840,3 +840,123 @@
   enabled: true
   icon: C:/Users/emanu/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/RiskOfRain2/cache/Dragonyck-Tracer/1.6.1/icon.png
+- manifestVersion: 1
+  name: DrBibop-VRAPI
+  authorName: DrBibop
+  websiteUrl: https://thunderstore.io/package/DrBibop/VRAPI/
+  displayName: VRAPI
+  description: Modding API for VR-compatible mods. Now with custom skin support!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1900
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:/Users/emanu/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/RiskOfRain2/cache/DrBibop-VRAPI/1.1.1/icon.png
+- manifestVersion: 1
+  name: kinggrinyov-KingModUtilities
+  authorName: kinggrinyov
+  websiteUrl: https://thunderstore.io/package/kinggrinyov/KingModUtilities/
+  displayName: KingModUtilities
+  description: A Utility mod to support all of my mods!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - tristanmcpherson-R2API-4.0.11
+    - bbepis-BepInExPack-5.4.1902
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 8
+    patch: 1
+  enabled: true
+  icon: C:/Users/emanu/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/RiskOfRain2/cache/kinggrinyov-KingModUtilities/1.8.1/icon.png
+- manifestVersion: 1
+  name: kinggrinyov-Goku
+  authorName: kinggrinyov
+  websiteUrl: https://thunderstore.io/package/kinggrinyov/Goku/
+  displayName: Goku
+  description: I am the warrior you've heard of in legends, pure of heart and
+    awakened by fury. That's what I am. I AM THE SUPER SAIYAN, SON GOKU!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - tristanmcpherson-R2API-4.0.11
+    - bbepis-BepInExPack-5.4.1902
+    - kinggrinyov-KingModUtilities-1.8.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 12
+    patch: 0
+  enabled: true
+  icon: C:/Users/emanu/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/RiskOfRain2/cache/kinggrinyov-Goku/2.12.0/icon.png
+- manifestVersion: 1
+  name: JavAngle-OrographicGambitBaseMod
+  authorName: JavAngle
+  websiteUrl: https://thunderstore.io/package/JavAngle/OrographicGambitBaseMod/
+  displayName: OrographicGambitBaseMod
+  description: A basemod for House and Myst
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - RiskofThunder-HookGenPatcher-1.2.3
+    - tristanmcpherson-R2API-4.4.1
+    - bbepis-BepInExPack-5.4.2103
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:/Users/emanu/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/RiskOfRain2/cache/JavAngle-OrographicGambitBaseMod/1.0.1/icon.png
+- manifestVersion: 1
+  name: JavAngle-TheHouse
+  authorName: JavAngle
+  websiteUrl: https://thunderstore.io/package/JavAngle/TheHouse/
+  displayName: TheHouse
+  description: Adds new Survivor ''The House'' who wields a deck of cards and an
+    eccentric roulette wheel revolver
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - RiskofThunder-HookGenPatcher-1.2.3
+    - tristanmcpherson-R2API-4.4.1
+    - bbepis-BepInExPack-5.4.2103
+    - JavAngle-OrographicGambitBaseMod-1.0.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:/Users/emanu/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/RiskOfRain2/cache/JavAngle-TheHouse/2.1.0/icon.png

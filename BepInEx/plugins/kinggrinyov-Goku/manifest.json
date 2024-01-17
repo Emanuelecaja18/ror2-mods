@@ -1,0 +1,11 @@
+{
+    "name": "Goku",
+    "version_number": "2.12.0",
+    "website_url": "",
+    "description": "I am the warrior you've heard of in legends, pure of heart and awakened by fury. That's what I am. I AM THE SUPER SAIYAN, SON GOKU!",
+    "dependencies": [
+    "bbepis-BepInExPack-5.4.1902",
+    "tristanmcpherson-R2API-4.0.11",
+    "kinggrinyov-KingModUtilities-1.8.0"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "OrographicGambitBaseMod",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "A basemod for House and Myst",
+    "dependencies": [
+	"tristanmcpherson-R2API-4.4.1",
+	"bbepis-BepInExPack-5.4.2103",
+    "RiskofThunder-HookGenPatcher-1.2.3"
+    ]
+}
