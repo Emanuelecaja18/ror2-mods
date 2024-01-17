@@ -9,8 +9,4 @@ for /d %%F in ("%sourceDirectory%\*") do (
     rd /s /q "%destinationDirectory%\%%~nF"
 )
 
-for %%F in ("%sourceDirectory%\*") do (
-    del /q "%destinationDirectory%\%%~nF"
-)
-
 xcopy "%sourceDirectory%\*" "%destinationDirectory%\" /s /i /y > nul
