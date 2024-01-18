@@ -1,0 +1,11 @@
+{
+  "namespace": "XoXFaby",
+  "name": "UnlockAll",
+  "description": "Unlocks everything PERMANENTLY",
+  "version_number": "1.0.5",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.9",
+    "XoXFaby-BetterUnityPlugin-1.1.1"
+  ],
+  "website_url": "https://github.com/xoxfaby/UnlockAll"
+}

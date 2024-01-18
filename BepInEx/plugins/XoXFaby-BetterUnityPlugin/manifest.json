@@ -1,0 +1,10 @@
+{
+  "namespace": "XoXFaby",
+  "name": "BetterUnityPlugin",
+  "description": "BaseUnityPlugin with MonoBehaviour message events and a Hook Manager",
+  "version_number": "1.1.1",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.9"
+  ],
+  "website_url": "https://github.com/xoxfaby/BetterUnityPlugin"
+}
